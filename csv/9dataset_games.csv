@@ -1,0 +1,737 @@
+﻿game_id,id_developer,id_review,id_languages,id_genre,id_pegi,game_title,release_date,game_details,achievements,original_price,discount_price
+1,274,9,7,9,3,1... 2... 3... KICK IT! (Drop That Beat Like an Ugly Baby),2021/09/05,"Single-player,Steam Achievements,Steam Trading Cards",1,9.99,5
+2,8,5,8,2,5,Shadow Warrior Classic (1997),2022/12/22,Single-player,30,72.74,7
+3,486,2,10,2,5,Bio Menace,2021/05/07,"Single-player,Partial Controller Support",30,9.99,3
+4,683,4,9,1,5,Crystal Caves,2022/07/23,"Single-player,Partial Controller Support",30,4.99,5
+5,616,3,6,3,5,Major Stryker,2021/01/30,"Single-player,Partial Controller Support",30,2.99,2
+6,524,4,10,1,1,Monster Bash,2021/12/27,"Single-player,Partial Controller Support",30,4.99,8
+7,703,5,12,12,4,Secret Agent,2022/08/06,"Single-player,Partial Controller Support",30,4.99,3
+8,257,8,12,10,3,Shadow Warrior (Classic),2022/08/03,"Single-player,Multi-player,Partial Controller Support",30,9.99,9
+9,262,4,2,12,5,Eradicator,2022/04/21,Single-player,30,55.92,2
+10,700,4,1,1,5,Max Payne,2022/01/27,Single-player,30,9.99,6
+11,668,7,10,1,5,Alien Carnage / Halloween Harry,2022/03/10,"Single-player,Partial Controller Support",30,4.99,6
+12,97,1,9,3,1,Alien Swarm,2021/04/14,"Single-player,Multi-player,Co-op,Steam Achievements,Captions available,Steam Cloud,Stats,Includes level editor",66,44.2,7
+13,300,1,3,11,1,Alpha Prime,2022/03/20,Single-player,30,4.99,5
+14,223,7,10,7,1,Guilty Gear X2 #Reload,2021/12/30,"Single-player,Steam Trading Cards,Partial Controller Support,Steam Cloud",30,9.99,3
+15,259,1,1,6,4,Pound of Ground,2021/12/01,"Single-player,Steam Achievements,Steam Cloud,Stats",26,9.99,6
+16,673,4,7,5,5,BloodRayne,2022/12/27,"Single-player,Steam Trading Cards",30,9.99,7
+17,183,1,8,3,5,BloodRayne 2,2022/11/15,"Single-player,Steam Trading Cards",30,9.99,2
+18,660,9,8,4,5,Bloody Good Time,2022/07/03,"Single-player,Multi-player,Steam Achievements",12,4.99,2
+19,254,6,2,5,5,Chernobyl Commando,2021/05/31,Single-player,30,9.99,6
+20,442,7,4,11,5,Manhunter,2022/08/21,Single-player,30,4.99,2
+21,426,3,12,5,4,Aliens vs. Predator,2021/02/07,"Single-player,Multi-player,Co-op,Downloadable Content,Steam Achievements,Steam Cloud,Stats,Steam Leaderboards",30,23.99,5
+22,360,4,12,10,5,Hell Yeah!,2021/02/10,"Single-player,Downloadable Content,Steam Achievements,Full controller support,Steam Cloud,Steam Leaderboards",30,19.49,3
+23,286,5,6,12,2,Left 4 Dead 2,2022/01/04,"Single-player,Multi-player,Co-op,Steam Achievements,Full controller support,Steam Trading Cards,Captions available,Steam Workshop,Steam Cloud,Valve An",70,9.99,3
+24,597,2,1,4,1,Anomaly 2 Soundtrack,2022/10/08,Downloadable Content,30,9.99,2
+25,196,1,5,12,5,A Valley Without Wind 2,2021/10/29,"Single-player,Multi-player,Co-op,Cross-Platform Multiplayer,Steam Achievements,Partial Controller Support",210,14.99,5
+26,119,4,11,5,5,CRYPTARK,2021/10/17,"Single-player,Local Multi-Player,Local Co-op,Steam Achievements,Full controller support,Stats,Steam Leaderboards",27,14.99,5
+27,681,2,2,9,5,Cannon Brawl,2021/02/12,"Single-player,Multi-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",30,14.99,6
+28,724,9,1,3,2,Devil May Cry 4,2021/09/07,"Single-player,Full controller support",30,19.99,8
+29,384,5,8,1,2,Bird Assassin,2022/09/03,"Single-player,Partial Controller Support",30,1.99,9
+30,728,1,6,7,4,Insecticide Part 1,2021/08/06,Single-player,30,0.99,9
+31,397,8,12,1,2,AaAaAA!!! - A Reckless Disregard for Gravity,2022/02/25,"Single-player,Steam Achievements,Steam Leaderboards",7,9.99,4
+32,577,4,1,6,5,AaaaaAAaaaAAAaaAAAAaAAAAA!!! for the Awesome,2021/06/01,"Single-player,Steam Achievements,Full controller support,Steam Leaderboards",10,9.99,6
+33,386,1,11,12,4,Anomaly Warzone Earth Mobile Campaign,2022/09/06,"Single-player,Steam Trading Cards",39,4.99,9
+34,575,4,3,10,1,Merchants of Kaidan,2022/04/21,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Steam Leaderboards",22,14.99,3
+35,713,2,3,5,2,Cubic Castles,2021/03/12,MMO,30,44.2,2
+36,552,7,1,1,1,Majesty 2,2021/12/01,Single-player,30,9.99,8
+37,386,7,12,11,2,Close Combat - Gateway to Caen,2021/04/18,"Single-player,Multi-player,Includes level editor",30,39.99,4
+38,539,6,10,8,1,Pacific Storm,2021/11/09,"Single-player,Multi-player,Steam Trading Cards",30,7.99,9
+39,56,1,10,8,3,3 Stars of Destiny,2022/05/12,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",50,14.99,6
+40,436,6,9,9,5,500 Years Act 1,2021/01/07,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards",16,7.99,8
+41,257,2,1,7,5,Legend of Grimrock,2021/09/24,"Single-player,Steam Achievements,Steam Workshop,Includes level editor",40,14.99,9
+42,21,2,9,5,1,Legend of Grimrock 2,2022/10/05,"Single-player,Steam Achievements,Steam Trading Cards,Steam Workshop,Steam Cloud,Includes level editor",60,23.99,7
+43,416,3,6,11,4,Alum,2022/10/31,"Single-player,Steam Achievements",17,4.99,6
+44,641,8,2,6,4,Chains,2022/10/11,Single-player,30,133.81,6
+45,521,8,1,6,1,Cherry Tree High I! My! Girls!,2021/10/28,"Single-player,Steam Trading Cards,Partial Controller Support",30,3.99,6
+46,581,2,3,12,1,Sokobond,2021/10/05,"Single-player,Steam Achievements,Full controller support,Steam Cloud",8,9.99,2
+47,709,2,3,10,3,Adventures of Shuggy,2022/08/05,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Cloud,Steam Leaderboards",13,4.99,5
+48,394,2,9,4,3,Gateways,2022/03/24,"Single-player,Steam Achievements,Full controller support",18,4.99,6
+49,80,7,9,11,1,Growing Pains,2022/10/09,"Single-player,Steam Achievements,Full controller support,Steam Cloud,Steam Leaderboards",9,4.99,6
+50,279,4,3,4,5,Age of Chivalry,2022/06/22,"Multi-player,Co-op,Mods,Mods (require HL2),Steam Achievements",71,38.94,4
+51,302,5,6,1,5,Aquaria,2022/10/14,"Single-player,Steam Achievements,Partial Controller Support",27,9.99,5
+52,429,5,3,12,4,One Day For Ched,2021/06/14,Single-player,30,3.99,8
+53,83,3,1,5,5,Audiosurf 2,2022/03/01,"Single-player,Shared/Split Screen,Full controller support,Steam Workshop",14,14.99,2
+54,91,9,4,3,1,Bob Was Hungry,2022/12/28,"Single-player,Multi-player,Co-op,Steam Achievements,Steam Trading Cards,Partial Controller Support",38,9.99,9
+55,311,9,7,3,1,Gish,2022/05/15,"Single-player,Multi-player",11,9.99,2
+56,636,1,3,4,3,Bloody Trapland,2022/05/07,"Single-player,Multi-player,Online Multi-Player,Local Multi-Player,Co-op,Online Co-op,Local Co-op,Shared/Split Screen,Steam Achievements,Full controlle",29,9.99,8
+57,130,6,9,1,2,Isaac the Adventurer,2021/02/14,"Single-player,Stats",30,2.99,4
+58,186,2,9,9,3,Broforce,2022/09/09,"Single-player,Multi-player,Co-op,Shared/Split Screen,Full controller support,Includes level editor",17,14.99,3
+59,674,9,3,1,2,Explodemon,2021/11/02,"Single-player,Steam Achievements",20,8.99,5
+60,225,7,3,7,2,Bloop,2022/07/05,Single-player,30,32.84,5
+61,338,3,9,7,4,Autocraft,2022/01/20,Single-player,30,9.99,4
+62,653,8,5,12,5,Cat Goes Fishing,2021/05/25,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",53,6.99,5
+63,115,7,3,5,2,404Sight,2021/12/29,"Single-player,Steam Achievements,Partial Controller Support",19,57.6,7
+64,459,2,8,2,5,A Walk in the Dark,2022/10/12,"Single-player,Steam Achievements,Full controller support,Steam Cloud,Stats,Steam Leaderboards",27,6.99,5
+65,378,2,6,6,3,Dino D-Day,2022/06/22,"Multi-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Valve Anti-Cheat enabled,Stats",77,9.99,5
+66,537,1,2,10,2,A.R.E.S. Extinction Agenda EX,2022/12/20,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",31,9.99,5
+67,218,4,6,2,1,SATAZIUS,2021/03/19,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Steam Leaderboards",40,5.99,6
+68,651,7,4,4,3,"Sir, You Are Being Hunted",2021/09/24,"Single-player,Multi-player,Steam Trading Cards,Partial Controller Support,Stats",30,19.99,2
+69,291,8,1,8,3,Angvik,2022/02/07,"Single-player,Partial Controller Support",21,2.99,7
+70,116,1,8,7,5,Air Brawl,2022/12/02,"Multi-player,Partial Controller Support",15,15.72,7
+71,410,8,10,4,2,Capsized,2021/05/01,"Single-player,Shared/Split Screen,Steam Achievements,Partial Controller Support,Steam Cloud,Stats",18,9.99,4
+72,657,8,8,9,4,Aqua Kitty - Milk Mine Defender,2021/11/24,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",36,6.99,6
+73,55,9,8,1,3,BIT.TRIP RUNNER,2021/06/09,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",26,9.99,3
+74,164,9,2,7,3,BIT.TRIP VOID,2021/12/03,"Single-player,Full controller support,Steam Cloud",19,9.99,8
+75,367,6,6,9,5,Really Big Sky,2022/10/12,"Single-player,Shared/Split Screen,Steam Trading Cards,Partial Controller Support,Steam Cloud",20,4.99,2
+76,609,3,11,4,5,Bierzerkers,2021/05/31,"Single-player,Multi-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",18,4.99,4
+77,388,9,12,12,2,Humanity Asset,2021/05/26,"Single-player,Steam Achievements,Steam Trading Cards,Stats",38,1.99,7
+78,202,6,2,2,3,Blast Em!,2022/06/19,"Single-player,Steam Achievements,Steam Leaderboards",23,0.99,6
+79,541,8,2,11,2,Bleed,2022/09/09,"Single-player,Local Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Leaderboards",32,4.99,2
+80,70,2,9,12,4,Blockstorm,2021/12/26,"Multi-player,Cross-Platform Multiplayer,Steam Trading Cards,Steam Workshop,Partial Controller Support,Includes level editor",131,71.93,3
+81,153,4,3,1,5,Booster Trooper,2021/03/26,"Single-player,Multi-player,Steam Achievements,Partial Controller Support,Stats,Steam Leaderboards",260,1.99,6
+82,285,6,7,1,1,Boson X,2022/04/07,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Leaderboards",18,2.99,8
+83,434,6,10,1,4,Pulstar,2022/04/22,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Partial Controller Support,Stats",13,1.99,5
+84,83,1,10,6,4,Iron Fisticle,2022/09/02,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Leaderboards",31,8.99,4
+85,660,4,12,6,3,Bullet Heaven 2 - Soundtrack,2021/09/07,"Single-player,Downloadable Content,Steam Achievements,Steam Trading Cards,Steam Cloud,Steam Leaderboards",30,19.99,6
+86,435,1,10,6,4,Butsbal,2021/03/11,"Multi-player,Shared/Split Screen,Cross-Platform Multiplayer,Partial Controller Support",6,2.99,9
+87,478,6,2,7,1,Captain Forever Remix,2021/03/28,"Single-player,Steam Achievements,Steam Workshop,Steam Cloud",31,9.99,5
+88,158,6,11,6,4,Serious Sam 2,2021/06/18,"Single-player,Multi-player,Online Multi-Player,Local Multi-Player,Co-op,Online Co-op,Local Co-op,Partial Controller Support,Includes level editor",30,9.99,5
+89,342,4,1,10,1,Chaos Domain,2021/12/16,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support",39,9.99,7
+90,113,1,9,1,1,10 Second Ninja,2022/07/11,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Steam Leaderboards",30,1.99,4
+91,288,4,5,1,5,140,2021/08/21,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",8,4.99,2
+92,92,6,1,4,1,Intrusion 2,2022/08/06,"Single-player,Steam Achievements,Partial Controller Support,Steam Cloud",14,9.99,8
+93,327,6,1,5,1,Fight The Dragon,2021/03/09,"Single-player,Multi-player,Co-op,Shared/Split Screen,Cross-Platform Multiplayer,Steam Achievements,Full controller support,Steam Trading Cards,Steam W",60,9.99,8
+94,681,6,4,8,3,After All,2022/08/08,Single-player,30,0.99,9
+95,445,1,6,11,1,Always Sometimes Monsters,2021/04/03,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",10,9.99,8
+96,712,4,7,7,1,Always Sometimes Monsters Demo,2021/07/23,"Single-player,Game demo",30,48.67,5
+97,128,4,8,12,5,Always Sometimes Monsters - Soundtrack,2021/10/25,"Single-player,Downloadable Content,Steam Achievements",30,4.99,9
+98,643,9,11,2,5,Choice of Robots,2022/10/28,"Single-player,Steam Achievements,Captions available,Steam Cloud",72,501.87,9
+99,360,3,3,10,5,Choice of the Deathless,2021/08/27,"Single-player,Steam Achievements,Captions available,Steam Cloud",32,501.87,7
+100,305,6,9,5,2,Hollywood Visionary,2022/09/11,"Single-player,Steam Achievements,Captions available,Steam Cloud",64,501.87,3
+101,141,9,1,10,1,Inquisitor,2022/10/10,"Single-player,Steam Trading Cards",30,9.99,4
+102,114,3,3,1,1,Apollo4x,2021/06/19,"Single-player,Steam Trading Cards,Captions available,Partial Controller Support,Steam Cloud,Stats,Includes level editor,Commentary available",30,1.99,6
+103,486,5,4,6,2,Overture,2022/08/07,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Captions available",4,4.99,7
+104,474,7,12,4,1,Caster,2022/09/17,"Single-player,Steam Trading Cards,Partial Controller Support",30,1.99,2
+105,129,8,12,6,1,Arcane Worlds,2021/01/20,Single-player,30,9.99,8
+106,448,2,12,11,5,Pharaoh's Tomb,2022/07/04,"Single-player,Partial Controller Support",30,2.97,5
+107,460,4,3,10,2,Damned,2021/02/21,"Multi-player,Co-op,Steam Achievements,Steam Trading Cards,Partial Controller Support",37,19.99,2
+108,603,9,8,4,4,Alter Ego,2022/05/10,Single-player,30,9.99,2
+109,715,1,10,11,5,Broken Sword 3 - the Sleeping Dragon,2022/09/04,"Single-player,Partial Controller Support",30,5.99,3
+110,496,6,5,4,1,Aberoth,2022/10/19,"Multi-player,Online Multi-Player,MMO,Steam Achievements",30,6,6
+111,288,9,2,9,1,A Bastard's Tale,2022/07/22,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",10,2,2
+112,330,8,12,12,4,A Valley Without Wind,2021/07/18,"Single-player,Multi-player,Co-op,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards,Partial Controller Support",98,14.99,5
+113,443,6,10,9,4,Shattered Haven,2021/05/05,"Single-player,Shared/Split Screen,Partial Controller Support,Includes level editor",30,9.99,5
+114,95,2,12,9,5,Darkout,2021/06/13,"Single-player,Steam Achievements,Steam Trading Cards",36,14.99,7
+115,480,7,4,12,5,PARTICLE MACE,2021/09/13,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Captions available,Steam Cloud,Stats,Steam Leaderboar",21,4.99,4
+116,136,4,11,4,4,Amygdala,2021/07/02,"Single-player,Steam Achievements,Full controller support",10,9.99,3
+117,275,2,3,11,1,Angry Video Game Nerd Adventures,2021/11/03,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards",19,4.99,2
+118,716,2,7,11,4,Environmental Station Alpha,2022/02/03,"Single-player,Steam Trading Cards,Partial Controller Support,Steam Cloud",30,7.99,4
+119,379,3,3,4,2,Bard to the Future,2021/08/17,"Single-player,Steam Achievements,Full controller support,Steam Cloud,Stats",13,8.99,3
+120,361,6,12,6,2,Asteria,2021/01/30,"Single-player,Multi-player,Co-op,Steam Achievements,Steam Trading Cards,Partial Controller Support,Includes level editor",36,4.99,4
+121,445,5,8,4,3,Boo Bunny Plague,2022/03/07,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Captions available,Steam Cloud",33,1.99,7
+122,378,3,1,9,5,Cave Story+,2022/12/13,"Single-player,Steam Achievements,Partial Controller Support",75,14.99,8
+123,385,1,2,4,3,Despair,2021/09/04,"Single-player,Steam Trading Cards",30,0.99,8
+124,109,5,5,9,1,Habitat,2022/03/02,"Single-player,Steam Achievements,Steam Trading Cards,Steam Workshop",10,14.99,6
+125,156,7,2,4,5,A Druid's Duel,2022/09/27,"Single-player,Multi-player,Shared/Split Screen,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards",49,7.99,8
+126,91,6,8,10,5,Sol Survivor,2022/08/03,"Single-player,Multi-player,Co-op,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Steam Leaderboards",26,9.99,4
+127,68,7,1,7,4,100% Orange Juice,2022/07/10,"Single-player,Multi-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Valve Anti-Cheat enabled,Stats,Steam Leaderboards",165,6.99,6
+128,64,7,2,8,2,Skulls of the Shogun,2022/08/19,"Single-player,Multi-player,Online Multi-Player,Local Multi-Player,Steam Achievements,Full controller support,Steam Trading Cards,Captions available,St",27,9.99,3
+129,427,7,12,9,3,A Golden Wake,2021/07/13,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Commentary available",18,8,8
+130,185,7,4,3,2,Cherry Tree High Comedy Club,2021/05/19,"Single-player,Steam Trading Cards,Partial Controller Support",30,7.99,2
+131,590,2,6,1,2,Antichamber,2022/06/04,"Single-player,Steam Trading Cards",30,19.99,5
+132,437,3,2,9,3,Eidolon,2021/02/12,Single-player,30,15,3
+133,581,2,10,4,3,Home,2022/07/03,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support",12,2.99,6
+134,556,1,1,4,3,BEEP,2021/06/02,"Single-player,Steam Trading Cards",30,1.99,8
+135,389,4,1,4,1,Bermuda,2021/07/10,"Single-player,Steam Trading Cards",30,2.99,8
+136,66,2,8,7,2,Blackwell Convergence,2022/09/12,"Single-player,Steam Achievements,Steam Trading Cards",12,4.99,8
+137,291,4,9,10,5,Blackwell Deception,2021/01/08,"Single-player,Steam Achievements,Steam Trading Cards",18,9.99,5
+138,208,5,8,12,4,Blackwell Epiphany,2021/10/19,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Commentary available",18,9.99,6
+139,559,6,4,10,3,Blackwell Unbound,2021/03/27,"Single-player,Steam Achievements,Steam Trading Cards",10,4.99,2
+140,482,2,9,11,5,Kentucky Route Zero,2022/01/30,"Single-player,Full controller support",30,24.99,4
+141,547,4,6,8,1,Bob Came in Pieces,2022/08/02,"Single-player,Steam Achievements,Partial Controller Support,Steam Cloud,Steam Leaderboards",81,4.99,5
+142,319,6,2,5,2,Beyond Eyes,2022/01/27,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Stats",10,14.99,8
+143,548,6,3,7,1,Apotheon,2021/10/13,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Captions available,Steam Cloud",30,69.95,7
+144,448,1,7,7,1,Ascendant,2022/05/10,"Single-player,Shared/Split Screen,Steam Achievements,Steam Trading Cards,Partial Controller Support,Stats",60,9.99,2
+145,25,8,4,1,2,EvilQuest,2021/03/18,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support",31,1.99,4
+146,728,2,5,8,1,In Exilium,2022/04/20,"Single-player,Multi-player,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards",5,4.99,3
+147,405,9,12,11,3,Burgers,2022/01/20,"Single-player,Co-op,Steam Achievements,Steam Trading Cards,Partial Controller Support",5,2.99,3
+148,176,8,5,11,3,Hammerwatch,2021/02/04,"Single-player,Multi-player,Co-op,Shared/Split Screen,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards,Steam Workshop,Partial Controll",38,9.99,9
+149,385,5,7,5,1,Consortium Soundtrack and Discoveries,2021/04/12,"Single-player,Downloadable Content,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Profile Features LimitedÂ 
+									",30,5.99,2
+150,701,7,1,3,3,Castle In The Darkness,2022/07/19,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support",11,9.99,6
+151,64,1,8,4,2,Abducted,2021/01/02,"Single-player,Steam Achievements,Partial Controller Support",12,14.99,6
+152,576,5,10,7,2,Bit Odyssey,2021/03/08,"Single-player,Steam Achievements,Full controller support,Steam Leaderboards",30,4.99,8
+153,90,3,6,3,5,Bionic Dues,2021/02/24,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",220,9.99,7
+154,242,8,4,3,1,Battle Brothers,2022/02/13,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",89,29.99,2
+155,654,5,8,12,2,NEO Scavenger,2022/11/07,"Single-player,Steam Trading Cards",30,14.99,5
+156,510,9,10,1,5,Convoy,2021/11/19,"Single-player,Steam Achievements,Steam Trading Cards",29,14.99,9
+157,584,9,10,1,5,A Wizard's Lizard,2021/11/26,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards",20,9.99,5
+158,278,2,6,4,1,Quick Slick Deadly,2022/09/29,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Steam Leaderboards",120,1.99,8
+159,105,4,2,1,4,Our Darker Purpose,2022/01/26,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud",64,14.99,6
+160,525,4,7,10,1,Crypt of the NecroDancer Extended Soundtrack,2022/05/18,Downloadable Content,30,4.99,7
+161,172,2,4,5,1,Crypt of the NecroDancer Extras,2022/10/20,"Single-player,Downloadable Content,Full controller support",30,1.99,3
+162,277,9,9,4,5,Dead Pixels,2022/11/07,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support",30,2.99,2
+163,607,6,10,2,1,BloodLust Shadowhunter,2022/03/05,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support",25,12.99,9
+164,727,2,10,5,2,Crimsonland,2021/07/07,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Stats,Steam Leaderboards",22,13.99,8
+165,666,2,1,2,3,Alien Shooter,2021/10/16,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Steam Leaderboards",17,4.99,6
+166,148,3,12,4,4,King of Dragon Pass,2021/10/02,"Single-player,Steam Achievements,Steam Trading Cards,Steam Leaderboards",43,11.99,7
+167,499,4,5,1,5,Age of Wonders,2021/12/18,"Single-player,Multi-player",30,5.99,2
+168,24,4,10,2,1,Age of Wonders Shadow Magic,2022/03/13,"Single-player,Multi-player",30,9.99,8
+169,300,6,1,5,4,Gorky 17,2022/08/09,"Single-player,Steam Trading Cards",30,4.99,3
+170,493,3,11,6,1,Elven Legacy,2021/07/23,"Single-player,Multi-player,Steam Cloud,Includes level editor",30,4.99,4
+171,585,9,12,6,5,APB Reloaded,2021/01/12,"Multi-player,MMO,Steam Achievements",60,8,8
+172,202,8,7,1,4,AVSEQ,2021/09/08,"Single-player,Steam Achievements",13,1.99,7
+173,197,8,3,1,2,Antisquad,2022/04/19,"Single-player,Steam Achievements,Steam Trading Cards,Steam Workshop,Partial Controller Support,Steam Cloud,Steam Leaderboards",178,5.99,7
+174,118,2,6,7,2,Antisquad - Skirmishes DLC,2022/09/10,"Single-player,Downloadable Content,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Steam Leaderboards,Profile Features L",30,2.99,7
+175,147,7,2,6,4,Beyond Gravity,2022/02/11,"Single-player,Steam Achievements,Steam Trading Cards,Steam Leaderboards",40,1.99,8
+176,311,6,5,10,3,Absent,2022/09/15,Single-player,6,8,8
+177,354,8,10,1,1,All Is Dust,2022/08/23,"Single-player,Partial Controller Support",30,9,9
+178,440,3,8,5,5,Absolute Drift,2022/12/26,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Stats,Steam Leaderboards",20,11.99,3
+179,339,1,11,8,5,AdVenture Capitalist,2022/07/01,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",31,7,7
+180,481,4,9,2,3,Crusaders of the Lost Idols,2021/10/21,"Single-player,Steam Achievements,Steam Trading Cards",96,9,9
+181,689,6,1,12,1,Adventurer Manager,2022/11/16,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",74,4.99,6
+182,357,9,5,2,2,Amazing Princess Sarah,2022/04/25,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards",12,4.99,5
+183,79,9,11,7,2,BIT.TRIP BEAT,2022/03/18,"Single-player,Steam Achievements,Partial Controller Support,Steam Cloud,Steam Leaderboards",26,9.99,2
+184,398,4,1,9,3,Goats on a Bridge,2022/12/14,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards",22,4.99,9
+185,53,5,10,2,3,Insanity's Blade,2021/08/14,"Single-player,Shared/Split Screen,Steam Achievements,Partial Controller Support,Steam Cloud",34,5.99,4
+186,144,7,2,1,5,Borealis,2022/12/19,"Single-player,Steam Achievements,Steam Trading Cards",17,4.99,2
+187,432,9,5,3,1,Collisions,2022/12/05,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Stats",24,3.99,3
+188,475,4,3,2,5,Millie,2021/12/07,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",14,3.99,8
+189,79,9,4,10,5,10000000,2021/10/28,"Single-player,Steam Achievements,Steam Trading Cards",14,4.99,4
+190,722,9,10,9,2,Apotheon Arena,2021/06/09,"Single-player,Multi-player,Shared/Split Screen,Full controller support",30,3,3
+191,355,8,2,12,2,Echoes+,2021/11/11,"Single-player,Full controller support",25,9,9
+192,667,2,11,10,5,Brawlhalla,2022/11/18,"Single-player,Multi-player,Online Multi-Player,Local Multi-Player,Co-op,Online Co-op,Local Co-op,Shared/Split Screen,Cross-Platform Multiplayer,Steam ",39,9,9
+193,6,2,5,7,1,Samorost 2,2022/08/23,Single-player,30,4.99,9
+194,525,7,1,8,1,Card City Nights,2021/11/21,"Single-player,Steam Achievements,Steam Trading Cards",8,4.99,8
+195,622,7,7,1,5,Catmouth Island,2022/05/15,"Single-player,Steam Trading Cards",30,0.99,3
+196,264,7,3,9,5,Morphopolis,2021/01/04,"Single-player,Steam Achievements,Steam Trading Cards",13,3.99,4
+197,51,1,8,9,5,BLOCKADE 3D,2022/03/20,"Online Multi-Player,Steam Trading Cards,In-App Purchases",30,8,8
+198,77,8,10,9,2,Boring Man - Online Tactical Stickman Combat,2022/11/14,"Multi-player,Online Multi-Player,Co-op,Online Co-op,Steam Achievements,Includes level editor",35,4,4
+199,136,4,8,8,5,Amazing Adventures Around the World,2021/04/13,Single-player,30,4.99,7
+200,60,3,2,6,4,Escape Rosecliff Island,2022/08/13,Single-player,30,4.99,9
+201,170,1,1,7,4,AstroPop Deluxe,2022/04/14,Single-player,30,4.99,6
+202,222,3,3,11,2,Big Money! Deluxe,2022/11/02,Single-player,30,4.99,3
+203,49,7,10,9,5,Hammer Heads Deluxe,2022/05/15,Single-player,30,4.99,7
+204,722,4,6,12,4,Heavy Weapon Deluxe,2022/10/15,Single-player,30,4.99,6
+205,562,8,12,12,4,Peggle Extreme,2022/09/29,Single-player,30,7,7
+206,135,5,11,1,1,American Conquest,2021/11/22,Single-player,30,4.99,2
+207,548,9,12,10,5,Port Royale 2,2022/07/29,Single-player,30,4.99,3
+208,700,7,6,8,2,Armada 2526,2022/06/14,"Single-player,Shared/Split Screen",30,14.99,7
+209,297,6,1,12,4,Knights of Honor,2021/03/03,"Single-player,Multi-player",30,9.99,5
+210,249,8,5,12,4,Etherlords,2022/05/22,"Single-player,Multi-player",30,4.99,2
+211,10,4,4,6,1,Among Ripples,2021/02/08,Single-player,30,1.99,7
+212,20,9,9,2,4,Anachronox,2021/04/03,Single-player,30,6.99,4
+213,517,4,3,2,5,Loki,2022/03/04,"Single-player,Multi-player",30,9.99,4
+214,718,2,8,7,3,Clans,2021/03/19,Single-player,30,2.99,6
+215,616,5,10,11,3,Modular Combat,2021/10/22,"Multi-player,Co-op,Captions available,Partial Controller Support,Steam Cloud,Stats",30,9,9
+216,438,1,5,5,1,Anarchy Arcade,2022/01/13,"Single-player,Multi-player,Steam Achievements,Steam Workshop,Partial Controller Support,Stats,Steam Leaderboards,Includes level editor",27,5,5
+217,562,4,12,9,3,Dota 2,2021/07/19,"Multi-player,Co-op,Steam Trading Cards,Steam Workshop,SteamVR Collectibles,In-App Purchases,Valve Anti-Cheat enabled",30,6,6
+218,24,1,11,11,4,Angels Fall First,2021/07/02,"Single-player,Multi-player,Partial Controller Support,Steam Cloud,Stats",30,17.99,6
+219,135,1,11,3,2,Secret of the Magic Crystals - Soundtrack and Coloring Book,2021/04/08,"Downloadable Content,Profile Features LimitedÂ 
+									",30,1.99,6
+220,452,8,5,10,1,Bad Hotel,2021/08/09,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Stats,Steam Leaderboards",13,4.99,4
+221,145,2,11,4,1,Blob From Space - Please Don't Stop The Music,2021/04/18,"Single-player,Downloadable Content",30,4.99,3
+222,696,8,1,2,5,Bullet Candy,2021/10/15,"Single-player,Steam Achievements",20,3.99,9
+223,137,3,1,4,4,Secret of the Magic Crystals - The Race,2022/12/28,"Single-player,Multi-player,Cross-Platform Multiplayer,Downloadable Content,Steam Achievements,Partial Controller Support,Steam Cloud,Steam Leaderboard",30,3.99,2
+224,676,3,6,5,1,Patrician III,2022/03/22,Single-player,30,4.99,7
+225,620,9,4,7,1,Black Ice,2021/07/28,"Single-player,Multi-player,Online Multi-Player,Co-op,Online Co-op,Cross-Platform Multiplayer,Steam Achievements,Full controller support,Steam Trading ",35,14.99,2
+226,199,8,3,9,3,Carmageddon Max Pack,2021/04/23,"Single-player,Multi-player,Steam Trading Cards",30,9.99,7
+227,396,7,9,4,2,Carmageddon TDR 2000,2021/12/29,"Single-player,Multi-player",30,4.99,2
+228,265,5,10,9,5,BlazeRush,2021/04/30,"Single-player,Multi-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",21,9.99,3
+229,599,6,9,4,4,Metal Drift,2021/09/02,"Single-player,Multi-player,Steam Achievements",28,9.99,7
+230,676,4,5,2,3,Arma 2,2022/05/23,"Single-player,Multi-player,Co-op,Captions available,Partial Controller Support,Includes level editor",30,12.99,2
+231,622,5,4,4,5,Faces of War,2022/05/04,"Single-player,Multi-player,Steam Cloud,Includes level editor",30,4.99,5
+232,545,1,10,7,3,Artemis Spaceship Bridge Simulator,2021/07/29,"Multi-player,Co-op,Shared/Split Screen",30,6.99,5
+233,608,8,5,10,1,Blockland,2021/06/28,"Single-player,Multi-player,Steam Achievements,Steam Trading Cards",11,9.99,9
+234,409,4,7,10,4,Battle Group 2,2022/07/02,"Single-player,Steam Achievements,Steam Trading Cards",34,7.99,2
+235,445,5,9,2,1,Bloodsports.TV,2021/10/01,"Single-player,Multi-player,Co-op,Steam Achievements,Steam Trading Cards,Steam Cloud,Steam Leaderboards",57,9.99,7
+236,345,9,9,6,1,Chip,2021/05/24,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Steam Leaderboards",22,4.99,6
+237,385,3,7,10,1,Commando Jack,2022/04/16,"Single-player,Steam Trading Cards",30,7.99,8
+238,73,9,2,3,1,Anomaly 2,2022/03/23,"Single-player,Multi-player,Cross-Platform Multiplayer,Steam Trading Cards,Steam Cloud",65,14.99,5
+239,122,6,2,9,3,Anomaly Defenders,2021/08/07,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Steam Leaderboards",20,9.99,5
+240,48,3,1,1,1,BeamNG.drive,2022/05/11,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Includes level editor",7,24.99,3
+241,336,5,5,5,2,Badland Bandits,2022/11/05,"Multi-player,Steam Achievements,Steam Trading Cards",26,3,3
+242,460,6,4,1,2,A.I.M.2 Clan Wars,2022/10/07,"Single-player,Steam Cloud",30,2.99,9
+243,354,5,4,10,2,Bejeweled Twist,2022/01/02,Single-player,30,4.99,6
+244,606,7,10,4,4,Breach & Clear,2022/02/02,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Stats,Steam Leaderboards",64,14.99,5
+245,71,1,2,2,1,Clutch,2022/07/09,Single-player,30,9.99,2
+246,107,1,1,7,4,Audition Online,2022/01/10,"Single-player,MMO",30,4,4
+247,55,7,11,4,1,Aura Kingdom,2021/11/16,"MMO,Steam Trading Cards",30,7,7
+248,427,5,3,12,2,Avernum 4,2022/02/09,Single-player,30,4.99,7
+249,692,6,12,7,5,Avernum 6,2022/11/21,Single-player,30,4.99,2
+250,154,7,4,3,2,Geneforge 1,2021/01/14,Single-player,30,19.99,9
+251,61,7,9,11,1,Geneforge 2,2022/04/09,Single-player,30,19.99,7
+252,372,7,10,4,3,Geneforge 3,2022/03/03,Single-player,30,19.99,3
+253,613,8,1,8,2,International Snooker,2021/04/25,"Single-player,Multi-player",30,12.99,7
+254,526,9,2,9,5,Bad Mojo Redux,2022/05/16,Single-player,30,5.99,8
+255,664,5,7,8,2,Banished,2022/01/28,"Single-player,Steam Achievements",36,19.99,9
+256,207,6,6,9,3,16bit Trader,2022/07/14,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Steam Leaderboards",16,2.99,9
+257,138,1,4,1,1,Black Ink,2021/03/17,,30,8,8
+258,51,5,7,4,3,Flotilla,2022/10/04,Partial Controller Support,30,9.99,8
+259,410,6,7,12,4,Grass Simulator,2021/11/25,"Single-player,Multi-player,Co-op,Cross-Platform Multiplayer,Steam Trading Cards",30,4.99,3
+260,511,6,11,10,5,Deep Dungeons of Doom,2022/04/03,"Single-player,Steam Achievements,Steam Trading Cards,Steam Leaderboards",46,4.99,8
+261,55,3,5,3,5,Card Hunter,2021/04/07,"Single-player,Multi-player,Co-op,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards,Captions available,Includes level editor",50,7,7
+262,331,8,5,7,2,Dev Guy,2021/04/08,Single-player,7,2,2
+263,439,2,2,1,1,Etherlords II,2021/01/09,"Single-player,Multi-player",30,4.99,5
+264,100,9,10,9,5,Bitweb,2022/02/20,Single-player,30,4,4
+265,143,4,11,4,1,Blue Rose,2021/02/11,"Single-player,Steam Achievements,Steam Trading Cards",19,15.99,4
+266,196,2,12,1,4,Blob From Space,2021/01/11,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Workshop,Steam Cloud",33,5.99,5
+267,218,2,1,6,1,CRYENGINE,2022/07/27,"Stats,Includes level editor",30,3.99,3
+268,276,3,7,4,3,Blockscape,2022/09/13,"Single-player,Multi-player",30,9.99,7
+269,53,6,6,9,5,Cricket Captain 2014,2021/04/17,"Single-player,Multi-player,Co-op",28,9.99,7
+270,256,5,3,6,3,Sigils of Elohim,2021/02/23,Single-player,30,2,2
+271,455,5,2,3,5,Breezeblox,2021/10/21,"Single-player,Steam Achievements,Partial Controller Support,Stats",3,2.99,2
+272,354,6,2,5,5,Dungeon Hearts,2022/08/07,"Single-player,Steam Trading Cards,Steam Leaderboards",17,2.99,8
+273,99,5,1,12,1,Deadly Sin 2,2021/08/08,Single-player,30,4.99,3
+274,370,9,10,10,4,Software Inc.,2021/06/05,"Single-player,Steam Workshop",30,13.99,3
+275,329,9,3,3,4,Basement,2022/11/22,Single-player,30,9.99,4
+276,502,3,4,2,3,Dive to the Titanic,2021/02/10,,30,9.99,2
+277,633,8,7,1,2,Cards and Castles,2021/07/31,"Single-player,Multi-player,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards,In-App Purchases,Steam Leaderboards",16,6,6
+278,564,2,12,8,5,Champions Online,2021/07/06,"Multi-player,MMO,Co-op,Steam Achievements",709,4,4
+279,298,3,7,12,3,Rise of Flight United,2021/04/06,"Single-player,Multi-player,Co-op,Steam Achievements,Partial Controller Support,Stats",89,5,5
+280,240,7,6,2,5,Majesty Gold HD,2021/09/19,"Single-player,Multi-player",30,79.95,2
+281,345,6,2,5,4,Blood Bowl 2,2022/11/11,"Single-player,Multi-player,Steam Achievements,Full controller support,Steam Trading Cards,In-App Purchases,Steam Cloud",31,19.99,9
+282,500,6,11,10,3,Blood Bowl 2 - Lizardmen,2022/09/29,"Single-player,Multi-player,Shared/Split Screen,Downloadable Content,Steam Achievements,Full controller support,Steam Cloud",30,6.99,5
+283,390,3,6,3,1,Blood Bowl 2 - Wood Elves,2022/12/02,"Single-player,Multi-player,Shared/Split Screen,Downloadable Content,Steam Achievements,Full controller support,Steam Cloud",30,6.99,9
+284,421,2,5,8,1,Insane 2,2022/11/23,"Single-player,Multi-player,Steam Achievements",47,14.99,7
+285,332,6,11,2,5,Off-Road Drive,2021/06/25,"Single-player,Multi-player,Steam Cloud",30,4.99,6
+286,367,7,11,1,2,Automation - The Car Company Tycoon Game,2022/07/15,Single-player,30,29.99,3
+287,120,9,6,9,2,Cannons Lasers Rockets,2021/05/22,"Multi-player,Steam Achievements,Steam Leaderboards",6,10.99,3
+288,396,3,1,12,1,Collapse,2022/08/17,"Single-player,Full controller support,Steam Trading Cards",30,19.99,4
+289,646,6,9,2,2,Sanctum,2022/09/06,"Single-player,Multi-player,Co-op,Cross-Platform Multiplayer,Steam Achievements,Partial Controller Support,Steam Cloud,Steam Leaderboards",100,9.99,8
+290,228,4,8,2,2,Majesty 2 Collection,2022/11/06,"Single-player,Multi-player",30,19.99,2
+291,565,8,12,12,2,DeadCore,2021/07/12,"Single-player,Steam Achievements,Steam Cloud,Steam Leaderboards",29,9.99,9
+292,218,4,6,6,4,Skyscraper Simulator,2021/12/24,"Single-player,Steam Cloud",30,2.99,9
+293,726,1,8,4,2,ArcheAge,2021/01/27,"Multi-player,MMO,Steam Trading Cards,In-App Purchases",30,8,8
+294,290,9,1,6,5,1954 Alcatraz,2021/10/01,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",25,9.99,9
+295,227,6,12,4,4,Godus,2022/08/31,"Single-player,Commentary available",30,14.99,5
+296,28,4,6,8,5,Retro/Grade,2022/09/28,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",21,9.99,5
+297,334,1,12,11,5,Dishonored,2021/06/30,"Single-player,Steam Achievements,Full controller support,Steam Cloud",80,9.99,9
+298,450,7,10,9,2,Sacred 2 Gold,2022/06/09,Single-player,30,14.99,2
+299,296,9,3,4,1,Astro Tripper,2021/11/05,"Single-player,Steam Achievements,Partial Controller Support,Steam Leaderboards",8,4.99,9
+300,34,9,6,11,1,Bang Bang Racing,2022/07/02,"Single-player,Multi-player,Steam Achievements,Partial Controller Support,Steam Cloud,Steam Leaderboards",12,9.99,4
+301,436,6,3,3,5,Bardbarian,2022/02/27,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",22,7.99,8
+302,704,3,8,12,2,Critter Crunch,2021/02/17,"Single-player,Multi-player,Co-op,Steam Achievements,Partial Controller Support,Steam Cloud,Valve Anti-Cheat enabled,Steam Leaderboards",14,6.99,6
+303,369,5,1,8,1,3DMark,2021/04/03,"Steam Achievements,Steam Leaderboards",15,29.99,8
+304,623,5,1,6,3,3DMark API Overhead feature test,2021/11/30,Downloadable Content,30,8,8
+305,653,2,9,9,4,3DMark Cloud Gate benchmark,2022/11/19,"Downloadable Content,Steam Achievements,Steam Leaderboards",30,3,3
+306,208,7,3,11,4,3DMark Sky Diver benchmark,2022/01/25,"Downloadable Content,Steam Achievements,Steam Leaderboards",30,9,9
+307,594,4,11,4,2,Aliens versus Predator Classic 2000,2021/03/13,"Single-player,Multi-player",30,4.99,7
+308,16,7,12,7,3,3DMark 11,2022/06/18,Steam Leaderboards,30,19.99,2
+309,676,1,3,11,4,Arcadia,2022/10/12,"Single-player,Steam Achievements,Partial Controller Support,Stats,Steam Leaderboards",17,4.99,3
+310,345,9,8,11,5,Mafia II,2021/10/26,"Single-player,Steam Achievements,Partial Controller Support",67,29.99,4
+311,143,8,11,7,2,Damnation City of Death,2022/09/30,"Single-player,Multi-player,Online Multi-Player,Co-op,Steam Achievements,Partial Controller Support",22,3.99,2
+312,202,1,9,2,2,Rugby League Team Manager 2015,2021/01/07,"Single-player,Includes level editor",30,19.99,6
+313,718,3,1,11,2,Sang-Froid - Tales of Werewolves,2022/05/24,"Single-player,Steam Achievements,Steam Trading Cards",33,6,6
+314,24,9,3,8,2,Psycho Starship Rampage,2021/09/19,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",46,9.99,6
+315,437,6,10,6,4,BeatBlasters III,2022/04/25,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",13,9.99,7
+316,496,7,6,12,5,Blocks That Matter,2022/06/28,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Workshop,Steam Cloud,Includes level editor",32,4.99,4
+317,140,6,7,1,2,Pro Rugby Manager 2015,2021/03/29,"Single-player,Steam Achievements,Captions available,Steam Cloud,Commentary available",19,9.99,7
+318,520,9,2,6,3,3SwitcheD,2021/05/22,"Single-player,Steam Trading Cards,Steam Cloud",30,9.99,5
+319,326,9,11,3,5,Heli Heroes,2021/01/06,"Single-player,Shared/Split Screen,Steam Trading Cards,Steam Cloud",30,4.99,9
+320,152,5,3,6,2,Mass Effect 2,2021/11/06,Single-player,30,19.99,9
+321,64,8,11,10,5,KnightShift,2021/07/09,"Single-player,Multi-player,Online Multi-Player,Cross-Platform Multiplayer,Steam Trading Cards,Steam Cloud",30,6.99,6
+322,217,8,5,11,3,Gary Grigsby's War in the East,2021/11/25,"Single-player,Multi-player",30,79.99,9
+323,652,1,4,3,4,Airline Tycoon 2,2021/12/20,Single-player,30,9.99,7
+324,164,4,2,6,1,Airline Tycoon Deluxe,2022/07/02,Single-player,30,9.99,5
+325,731,4,1,3,1,Ghost Pirates of Vooju Island,2021/10/12,Single-player,30,9.99,2
+326,506,7,9,5,5,Jack Keane 2 - The Fire Within,2022/02/17,Single-player,30,9.99,8
+327,701,4,8,6,5,Mystery of Neuschwanstein,2021/06/11,"Single-player,Steam Achievements",15,11.99,4
+328,445,1,3,5,5,Cities in Motion 2,2021/05/14,"Single-player,Multi-player,Co-op,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards,Steam Workshop",51,19.99,2
+329,659,7,10,8,4,Bus-Simulator 2012,2022/08/07,"Single-player,Partial Controller Support,Includes level editor",30,9.99,4
+330,263,3,3,3,5,Impire,2022/11/24,"Single-player,Multi-player,Co-op,Steam Achievements,Steam Cloud",48,19.99,4
+331,375,1,3,3,3,8-Bit Commando,2022/10/28,"Single-player,Local Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Stats,Steam Leaderboards",15,3.99,4
+332,408,7,12,8,1,Chaser,2021/11/08,"Single-player,Multi-player",30,4.99,2
+333,409,9,7,2,3,60 Seconds!,2021/01/08,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud",56,9.99,3
+334,302,3,12,10,1,Ittle Dew,2022/11/30,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Steam Leaderboards",15,9.99,8
+335,382,3,6,1,4,7 Days to Die,2022/10/11,"Single-player,Multi-player,Co-op,Cross-Platform Multiplayer,Steam Achievements,Full controller support,Steam Trading Cards,Includes level editor",43,24.99,9
+336,685,2,2,11,3,Pride of Nations,2021/01/12,"Single-player,Multi-player",30,19.99,7
+337,50,6,8,11,5,"7,62 High Calibre",2022/03/27,"Single-player,Steam Trading Cards,Steam Cloud",30,4.99,3
+338,677,8,3,4,1,Rock of Ages,2021/07/29,"Single-player,Multi-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Steam Leaderboards",19,9.99,8
+339,489,6,5,5,3,Blades of Time,2022/11/12,"Single-player,Multi-player,Co-op,Steam Achievements,Partial Controller Support,Steam Cloud,Stats,Steam Leaderboards",35,9.99,9
+340,660,9,11,12,4,And Yet It Moves,2022/07/25,"Single-player,Steam Achievements,Partial Controller Support",30,9.99,4
+341,423,5,11,1,5,Borderlands 2,2021/06/04,"Single-player,Co-op,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",75,19.99,8
+342,324,5,2,1,5,Half-Life 2,2022/06/02,"Single-player,Steam Achievements,Steam Trading Cards,Captions available,Partial Controller Support,Steam Cloud,Includes Source SDK",33,9.99,8
+343,228,2,3,3,3,9.03m,2022/05/08,Single-player,30,8,8
+344,420,1,11,2,5,Agarest 2 - Bundle #3,2021/03/27,"Single-player,Downloadable Content,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud",30,8.99,2
+345,183,8,8,9,3,Agarest 2 - Bundle #6,2021/10/11,"Single-player,Downloadable Content,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Steam Leaderboards",30,7.99,8
+346,558,3,6,9,1,Mighty Gunvolt,2021/05/30,"Single-player,Steam Achievements,Partial Controller Support,Steam Cloud",12,4.99,3
+347,250,5,1,2,5,Rivals of Aether,2022/01/25,"Single-player,Online Multi-Player,Local Multi-Player,Local Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,St",25,14.99,8
+348,576,6,1,5,3,Skyborn,2021/02/11,"Single-player,Steam Achievements,Steam Trading Cards",24,14.99,9
+349,2,7,5,9,2,Resident Evil 6 / Biohazard 6,2021/05/10,"Single-player,Multi-player,Co-op,Shared/Split Screen,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Valve Anti-Cheat en",70,29.99,8
+350,74,3,8,12,4,Metro 2033 Redux,2022/05/22,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",49,19.99,3
+351,570,1,5,12,3,A Bird Story,2021/05/09,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud",1,3.99,7
+352,547,7,4,11,5,Sniper Elite V2,2021/02/17,"Single-player,Multi-player,Co-op,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Steam Leaderboards",47,14.97,6
+353,425,6,4,3,3,Satellite Reign,2021/10/23,"Single-player,Multi-player,Online Multi-Player,Local Multi-Player,Co-op,Online Co-op,Local Co-op,Cross-Platform Multiplayer,Steam Achievements,Steam T",40,29.99,7
+354,419,6,6,4,1,A New Beginning - Final Cut,2022/03/04,"Single-player,Steam Achievements",28,9.99,9
+355,361,8,3,2,4,Day of Defeat,2021/12/15,"Multi-player,Valve Anti-Cheat enabled",30,4.99,8
+356,312,6,3,7,2,Sniper Elite,2021/11/26,"Single-player,Steam Trading Cards",30,7.99,3
+357,678,4,3,12,3,Lost Horizon,2022/10/29,Single-player,30,9.99,9
+358,8,7,6,5,2,Just Cause,2022/08/17,Single-player,30,6.99,3
+359,276,5,8,6,5,Renegade Ops,2021/11/04,"Single-player,Multi-player,Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Leaderboards",16,15,2
+360,478,3,6,4,5,Cloning Clyde,2022/09/15,"Single-player,Steam Achievements,Partial Controller Support,Steam Cloud,Stats",25,4.99,9
+361,528,2,6,11,3,Plain Sight,2021/04/18,"Multi-player,Steam Achievements,Steam Leaderboards",24,4.99,3
+362,532,9,7,2,2,Bejeweled 2 Deluxe,2021/10/02,Single-player,30,4.99,3
+363,637,8,2,9,1,Chuzzle Deluxe,2021/04/15,Single-player,30,4.99,2
+364,298,8,1,5,3,Fallout 3 - Mothership Zeta,2022/05/14,"Single-player,Downloadable Content,Partial Controller Support",30,4.99,2
+365,513,9,1,7,4,Fallout 3 - Point Lookout,2021/06/10,"Single-player,Downloadable Content,Partial Controller Support",30,4.99,8
+366,615,2,6,12,3,Fallout 3 - The Pitt,2022/01/22,"Single-player,Downloadable Content,Partial Controller Support",30,4.99,6
+367,132,6,1,7,5,HOARD,2021/12/30,"Single-player,Multi-player,Co-op,Steam Achievements,Full controller support,Steam Cloud,Valve Anti-Cheat enabled,Stats,Steam Leaderboards",129,9.99,3
+368,21,3,8,12,1,MDK 2,2022/03/10,Single-player,30,9.99,9
+369,410,3,5,3,4,Battlestations Pacific,2021/11/29,"Single-player,Multi-player,Partial Controller Support",30,8.99,5
+370,732,4,2,5,5,Binary Domain,2022/01/09,"Single-player,Multi-player,Co-op,Steam Achievements,Full controller support,Steam Cloud,Steam Leaderboards",49,14.99,3
+371,208,3,5,5,3,FlatOut,2022/04/11,"Single-player,Multi-player",30,7.49,8
+372,416,9,10,9,1,Blade Kitten,2022/09/27,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud",20,2.99,2
+373,293,6,2,8,5,Buzz Aldrin's Space Program Manager,2021/11/22,"Single-player,Multi-player,Steam Trading Cards",19,29.99,4
+374,222,7,2,8,1,Lara Croft and the Guardian of Light,2021/08/10,"Single-player,Multi-player,Shared/Split Screen,Steam Achievements,Partial Controller Support,Steam Cloud,Stats,Steam Leaderboards",12,9.99,8
+375,378,5,5,12,1,Anna's Quest,2021/05/15,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",39,79.95,4
+376,725,3,11,8,5,Blackguards,2021/11/24,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",45,9.99,3
+377,383,9,8,11,5,Blackguards 2,2022/09/30,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",50,14.99,8
+378,529,7,6,6,3,Chaos on Deponia,2021/10/11,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",34,29.99,7
+379,446,6,10,8,2,Deponia,2022/01/21,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",19,9.99,8
+380,202,6,1,6,3,Quantum Conundrum,2021/04/08,"Single-player,Steam Achievements,Full controller support,Steam Cloud,Steam Leaderboards",25,8.99,5
+381,62,6,11,4,5,Fire,2021/12/16,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",27,9.99,4
+382,621,9,5,3,2,BioShock Infinite - Season Pass,2022/02/11,"Single-player,Downloadable Content",30,19.99,4
+383,53,3,11,5,4,Goodbye Deponia,2022/06/05,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",50,19.99,7
+384,674,1,4,4,4,Deathmatch Classic,2022/06/26,"Multi-player,Online Multi-Player,Local Multi-Player,Valve Anti-Cheat enabled",30,4.99,8
+385,79,7,5,2,1,Ricochet,2021/01/26,"Multi-player,Online Multi-Player,Valve Anti-Cheat enabled",30,4.99,3
+386,260,2,12,5,5,Memoria,2021/05/09,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",31,19.99,2
+387,333,9,6,7,1,Blitzkrieg Anthology,2021/12/13,Single-player,30,4.99,9
+388,49,7,5,11,5,Scribblenauts Unlimited,2022/10/13,"Single-player,Steam Achievements,Steam Trading Cards,Steam Workshop,Steam Cloud",25,19.99,2
+389,79,7,11,12,3,BioShock Infinite,2021/03/29,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",80,29.99,7
+390,386,4,4,9,3,A Story About My Uncle,2021/12/02,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",15,12.99,8
+391,91,5,5,6,2,Just Cause 2,2021/09/28,"Single-player,Steam Achievements,Full controller support,Steam Cloud",50,14.99,9
+392,20,3,1,6,3,ArcaniA,2022/05/10,Single-player,30,19.99,9
+393,453,8,3,5,3,Arx Fatalis,2021/09/16,Single-player,30,4.99,5
+394,142,2,7,3,2,Bastion,2022/07/05,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",24,14.99,2
+395,349,3,9,8,1,Counter-Strike,2021/06/11,"Multi-player,Online Multi-Player,Local Multi-Player,Valve Anti-Cheat enabled",30,9.99,7
+396,175,2,9,10,5,Half-Life,2022/08/09,"Single-player,Multi-player,Online Multi-Player,Steam Cloud,Valve Anti-Cheat enabled",30,9.99,7
+397,148,1,7,8,3,APOX,2022/12/01,"Single-player,Multi-player,Co-op,Steam Achievements,Stats,Steam Leaderboards",47,14.99,8
+398,180,8,8,10,3,A-Train 8,2021/08/30,Single-player,30,19.99,5
+399,119,8,6,10,5,Abyss Odyssey,2021/01/10,"Single-player,Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",17,14.99,9
+400,543,9,6,6,3,BloodRayne Betrayal,2022/01/01,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",12,9.99,9
+401,679,7,5,3,1,Shadow Man,2022/02/03,Single-player,30,4.99,6
+402,157,8,12,9,3,Rogue Warrior,2021/12/22,"Single-player,Multi-player,Steam Achievements,Steam Cloud,Steam Leaderboards",45,4.99,9
+403,569,6,4,5,3,Peggle Deluxe,2021/05/21,Single-player,30,4.99,6
+404,303,7,9,5,4,Fallout 3,2022/01/15,"Single-player,Partial Controller Support",30,9.99,9
+405,549,1,12,3,2,STARWHAL,2021/08/21,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Leaderboards",24,11.99,8
+406,8,6,6,6,2,Heroes of Might & Magic V,2022/04/20,Single-player,30,9.99,8
+407,515,6,5,6,2,Pool Nation,2022/11/08,"Single-player,Multi-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Workshop,Steam Cloud,Steam Leaderboards",20,6.99,5
+408,524,5,9,5,2,Broken Sword 4 - the Angel of Death,2021/02/09,Single-player,30,5.99,9
+409,5,8,5,7,5,"I Have No Mouth, and I Must Scream",2021/05/22,"Single-player,Steam Trading Cards",30,5.99,2
+410,444,7,4,4,1,KickBeat Steam Edition,2022/08/12,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",42,9.99,9
+411,465,1,9,11,3,Ancient Space,2022/09/19,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",30,19.99,9
+412,128,4,10,7,1,Castle Story,2022/06/26,"Single-player,Multi-player,Online Multi-Player,Local Multi-Player,Co-op,Online Co-op,Cross-Platform Multiplayer,Steam Achievements,Steam Workshop,Incl",12,24.99,9
+413,636,1,12,5,5,A.I.M. Racing,2022/04/13,"Single-player,Partial Controller Support,Steam Cloud",30,2.99,5
+414,3,7,9,3,2,Heroes of Annihilated Empires,2021/02/09,"Single-player,Multi-player",30,14.99,2
+415,570,4,3,5,2,Portal,2022/11/18,"Single-player,Steam Achievements,Captions available,Partial Controller Support,Includes level editor,Includes Source SDK,Commentary available",15,9.99,6
+416,492,1,11,3,1,Dream Pinball 3D,2021/05/26,"Single-player,Multi-player,Local Multi-Player,Shared/Split Screen,Steam Trading Cards,Steam Cloud",30,6.99,6
+417,268,6,2,3,4,AR-K,2021/10/25,"Single-player,Steam Achievements,Steam Trading Cards",12,7.99,8
+418,157,9,7,4,3,Reus,2021/10/07,"Single-player,Steam Achievements,Steam Trading Cards",123,9.99,4
+419,652,4,11,5,4,AXYOS,2022/06/24,"Multi-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Stats",21,4.99,6
+420,121,7,6,5,2,Portal 2,2022/12/13,"Single-player,Co-op,Steam Achievements,Full controller support,Steam Trading Cards,Captions available,Steam Workshop,Steam Cloud,Stats,Includes level ",51,9.99,9
+421,727,1,6,4,5,Grim Dawn,2022/08/22,"Single-player,Multi-player,Co-op,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",178,24.99,3
+422,731,6,10,2,3,Hidden Object Bundle 5 in 1,2021/09/01,"Single-player,Steam Trading Cards",30,9.99,6
+423,58,2,9,3,2,Farming Giant,2022/09/21,"Single-player,Steam Cloud",30,1.99,7
+424,615,4,10,1,5,Mass Effect,2022/10/17,Single-player,30,19.99,8
+425,690,1,8,8,4,Action! - Gameplay Recording and Streaming,2021/03/22,,30,39.99,6
+426,638,6,3,12,5,Civil War II,2021/09/26,"Single-player,Multi-player",30,39.99,6
+427,18,4,7,11,4,Crysis,2021/07/03,Single-player,30,19.99,9
+428,571,6,1,7,4,Actual Sunlight,2021/07/17,"Single-player,Steam Achievements,Steam Trading Cards,Captions available,Partial Controller Support",1,4.99,4
+429,256,7,12,6,4,Besiege,2021/02/16,"Single-player,Multi-player,Co-op,Cross-Platform Multiplayer,Steam Achievements,Steam Workshop,Includes level editor",26,9.99,9
+430,113,2,1,6,4,Akuatica,2022/02/08,"Single-player,Steam Achievements,Steam Trading Cards",11,4.99,8
+431,244,8,4,2,2,Ballad of Solar,2021/08/26,"Single-player,Steam Trading Cards",30,6.99,8
+432,454,2,3,2,5,Elementary My Dear Majesty!,2022/03/19,"Single-player,Steam Trading Cards",30,0.99,3
+433,368,9,6,8,3,Rogue Legacy,2021/11/06,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",29,14.99,2
+434,373,9,11,6,1,Age of Wonders III,2021/01/16,"Single-player,Multi-player,Co-op,Shared/Split Screen,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards,Steam Workshop,Steam Cloud,Incl",74,29.99,9
+435,574,3,11,3,2,Big Pharma,2022/03/15,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",25,24.99,9
+436,458,1,8,10,2,Bullet Heaven 2,2021/01/09,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",75,11.99,5
+437,469,4,11,4,5,Epic Battle Fantasy 4,2021/02/27,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",104,11.99,4
+438,659,5,6,1,3,AirBuccaneers,2021/08/29,"Multi-player,Steam Trading Cards",30,1.99,3
+439,254,2,3,7,4,Colonial Conquest,2021/09/13,"Single-player,Shared/Split Screen,Steam Achievements,Steam Trading Cards",40,9.99,6
+440,334,2,1,12,4,Cosmonautica,2021/07/13,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",31,9.99,6
+441,242,6,9,3,5,Cosmonautica - Soundtrack,2021/02/27,"Single-player,Downloadable Content,Steam Achievements,Steam Trading Cards,Steam Cloud,Profile Features LimitedÂ 
+									",30,4.99,6
+442,372,1,5,6,5,Left 4 Dead,2022/02/07,"Single-player,Multi-player,Co-op,Steam Achievements,Full controller support,Captions available,Steam Cloud,Valve Anti-Cheat enabled,Stats,Steam Leader",73,9.99,9
+443,335,4,6,4,1,Airport Simulator 2014,2021/02/04,"Single-player,Steam Cloud",30,9.99,9
+444,303,5,2,8,5,Alan Wake,2022/04/29,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",67,14.99,4
+445,261,2,4,11,3,Betrayer,2022/07/31,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support",21,4.99,6
+446,314,1,5,11,5,Botanicula,2021/02/08,"Single-player,Steam Achievements,Steam Trading Cards",53,9.99,2
+447,248,7,5,3,3,Machinarium,2022/10/17,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",12,9.99,4
+448,284,7,12,3,5,Battle Mages,2022/06/14,"Single-player,Steam Trading Cards",30,3.99,2
+449,367,3,7,7,5,Dreaming Sarah OST,2022/07/26,"Single-player,Downloadable Content,Partial Controller Support,Profile Features LimitedÂ 
+									",30,24.99,4
+450,198,5,9,6,2,Neverwinter,2022/07/08,"Multi-player,MMO,Co-op,Steam Trading Cards,In-App Purchases,Includes level editor",30,2,2
+451,412,6,6,7,3,Free to Play,2021/09/26,"Steam Achievements,Captions available",5,3,3
+452,130,9,3,1,4,Goat Simulator,2021/10/31,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Workshop,Steam Cloud,Steam Leaderboards,Include",127,9.99,7
+453,502,2,1,7,5,Sniper Elite 3,2022/10/11,"Single-player,Multi-player,Co-op,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",77,29.99,2
+454,33,5,10,2,2,Cosmophony,2021/10/16,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards",5,4.99,3
+455,649,8,12,2,3,Borderless Gaming,2021/05/26,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",1,3.99,2
+456,238,9,1,11,1,Muffin Knight,2021/06/11,"Single-player,Multi-player,Co-op,Cross-Platform Multiplayer,Steam Achievements,Full controller support,Partial Controller Support,Steam Leaderboards",55,4.99,9
+457,366,1,5,5,5,Assassin's Creed Freedom Cry,2021/03/23,Single-player,30,14.99,5
+458,421,4,9,2,3,Reassembly,2022/02/11,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Workshop,Steam Cloud,Includes level editor",24,14.99,2
+459,588,6,11,5,2,GUILTY GEAR XX ACCENT CORE PLUS R,2022/12/13,"Single-player,Multi-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",30,14.99,4
+460,161,1,3,5,1,GUILTY GEAR Xrd -SIGN-,2021/12/03,"Single-player,Multi-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",48,29.99,2
+461,198,7,3,7,3,Arma 3,2022/10/07,"Single-player,Multi-player,Online Multi-Player,Local Multi-Player,Co-op,Online Co-op,Local Co-op,Steam Achievements,Steam Trading Cards,Captions avail",104,57.98,8
+462,453,8,11,6,1,Arma 3 Helicopters,2021/12/14,"Single-player,Multi-player,Online Multi-Player,Local Multi-Player,Co-op,Online Co-op,Local Co-op,Downloadable Content,Steam Achievements,Steam Trading",30,9.99,9
+463,678,6,3,9,1,Arma 3 Marksmen,2021/03/23,"Single-player,Multi-player,Online Multi-Player,Local Multi-Player,Co-op,Online Co-op,Local Co-op,Downloadable Content,Steam Achievements,Steam Trading",30,9.99,9
+464,226,7,3,2,3,Black Mirror II,2021/11/13,"Single-player,Steam Cloud",30,9.99,7
+465,244,6,8,9,3,Bound By Flame,2021/03/02,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",41,19.99,6
+466,12,4,4,5,4,Guild Wars,2021/06/03,"Multi-player,MMO",30,19.99,6
+467,455,8,11,8,1,Guild Wars Nightfall,2021/08/13,"Multi-player,MMO",30,19.99,5
+468,242,5,10,11,5,Guild Wars Trilogy,2021/05/16,"Multi-player,MMO",30,29.99,2
+469,687,7,11,8,4,DayZ,2021/06/15,"Multi-player,Online Multi-Player,Steam Workshop,Steam Cloud,Valve Anti-Cheat enabled",30,44.99,7
+470,5,6,12,3,2,Prey,2021/06/11,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",58,29.99,2
+471,108,5,10,5,2,Pro Cycling Manager 2015,2021/04/01,"Single-player,Multi-player,Steam Achievements,Steam Trading Cards,Steam Cloud",47,14.99,7
+472,595,7,11,11,2,Anoxemia,2021/12/18,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Stats",23,3.99,8
+473,525,2,11,6,2,Magicka,2021/02/24,"Single-player,Multi-player,Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Leaderboards",88,9.99,4
+474,338,1,3,1,5,Deep Fritz 14 DLC,2021/12/23,"Single-player,Multi-player,Downloadable Content",30,19.99,2
+475,233,1,10,12,5,Bus Driver,2022/01/03,"Single-player,Partial Controller Support",30,7.99,6
+476,533,2,3,1,4,Bridge Constructor,2022/01/06,"Single-player,Steam Achievements,Steam Cloud,Steam Leaderboards",57,9.99,9
+477,453,1,8,1,2,Bridge Constructor Medieval,2021/04/17,"Single-player,Steam Achievements,Steam Cloud,Steam Leaderboards",14,9.99,3
+478,197,5,5,4,3,Bridge Constructor Playground,2022/08/18,"Single-player,Steam Achievements,Steam Cloud,Steam Leaderboards",21,9.99,8
+479,345,4,6,4,3,Anodyne,2021/09/11,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",6,9.99,5
+480,310,8,3,1,1,Legends of Eisenwald,2021/11/14,"Single-player,Steam Achievements,Steam Trading Cards,Steam Workshop,Steam Cloud,Includes level editor",45,19.99,4
+481,396,4,3,2,5,Another Perspective,2021/06/17,"Single-player,Steam Achievements,Partial Controller Support",8,5.99,8
+482,24,1,4,10,5,Quintet,2021/10/21,"Single-player,Multi-player,Online Co-op,Cross-Platform Multiplayer,Partial Controller Support",30,8,8
+483,489,2,10,12,3,Bloodwood Reload,2021/05/30,Single-player,30,6,6
+484,539,5,12,9,1,Kingdom Tales,2021/08/17,"Single-player,Steam Cloud",30,2.99,9
+485,652,7,9,4,3,Canyon Capers,2022/12/26,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Stats,Steam Leaderboards",30,6.99,9
+486,332,2,8,2,3,CastleStorm - From Outcast to Savior,2022/06/23,"Single-player,Multi-player,Co-op,Shared/Split Screen,Downloadable Content,Steam Achievements,Full controller support,Steam Trading Cards,Steam Leaderb",30,2.99,5
+487,723,7,4,4,5,CastleStorm - The Warrior Queen,2022/11/20,"Single-player,Multi-player,Co-op,Shared/Split Screen,Downloadable Content,Steam Achievements,Full controller support,Steam Trading Cards,Steam Leaderb",30,2.99,8
+488,377,6,1,5,4,Mad Max,2021/01/10,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",49,19.99,7
+489,531,7,4,8,3,GRID Autosport,2021/11/07,"Single-player,Multi-player,Shared/Split Screen,Cross-Platform Multiplayer,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,V",60,29.99,9
+490,533,6,7,12,1,Perpetuum,2022/09/12,"Multi-player,MMO,Steam Achievements,Steam Trading Cards",34,4.99,4
+491,101,2,4,11,2,Castle of Illusion,2022/08/23,"Single-player,Steam Achievements,Full controller support,Steam Cloud",12,14.99,9
+492,105,4,9,1,2,Resident Evil Revelations 2 / Biohazard Revelations 2,2022/05/09,"Single-player,Co-op,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",43,5.99,3
+493,599,8,1,12,2,Phoenix Force,2022/05/28,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards",9,3.99,2
+494,594,4,1,7,4,Planet of the Eyes,2022/11/07,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",14,31.95,6
+495,456,4,11,12,3,AquaNox,2021/09/12,"Single-player,Multi-player",30,4.99,5
+496,683,4,6,3,1,Arma Tactics,2022/05/06,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",30,8,8
+497,275,9,12,4,5,F1 2014,2022/11/19,"Single-player,Multi-player,Co-op,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",49,29.99,3
+498,160,7,10,6,5,Memento Mori,2022/02/07,Single-player,30,12.99,7
+499,75,9,12,6,4,Dead Effect,2021/09/06,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Stats,Steam Leaderboards",61,4.99,8
+500,705,4,12,2,3,Hurtworld,2022/04/09,"Multi-player,Co-op,Cross-Platform Multiplayer",30,24.99,4
+501,412,3,1,7,3,Crypt of the NecroDancer,2021/12/31,"Single-player,Local Co-op,Steam Achievements,Full controller support,Steam Trading Cards,Captions available,Steam Workshop,Steam Cloud,Steam Leaderboa",44,14.99,6
+502,444,9,4,9,5,Armello,2021/11/26,"Single-player,Online Multi-Player,Steam Achievements,Full controller support,Steam Trading Cards,In-App Purchases,Steam Cloud,Valve Anti-Cheat enabled",50,19.99,4
+503,657,9,1,8,4,Back to Bed,2021/04/11,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Captions available,Steam Cloud",20,5.99,6
+504,589,6,8,6,4,Armikrog,2021/11/16,Single-player,30,9.99,8
+505,218,1,9,7,1,Cloudbuilt,2022/01/19,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Workshop,Steam Cloud,Steam Leaderboards,Includes level editor",37,19.99,9
+506,189,8,2,8,4,Azure Striker Gunvolt,2022/09/18,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Steam Leaderboards",25,14.99,4
+507,620,8,2,11,4,Chariot,2021/08/14,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Leaderboards",46,14.99,5
+508,434,8,10,8,4,Nihilumbra,2021/11/11,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",24,7.99,3
+509,480,1,7,8,1,Chronology,2022/07/02,"Single-player,Full controller support,Steam Trading Cards,Steam Cloud",30,4.99,5
+510,368,7,4,10,3,Resident Evil / biohazard HD REMASTER,2022/07/04,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",44,19.99,8
+511,555,1,7,12,5,Assetto Corsa,2022/03/05,"Single-player,Online Multi-Player,Steam Achievements,Partial Controller Support,Steam Leaderboards,Includes level editor",709,19.99,6
+512,53,8,7,7,4,Chroma Squad,2022/01/13,"Single-player,Steam Achievements,Steam Trading Cards,Captions available,Steam Workshop,Partial Controller Support,Steam Cloud,Steam Leaderboards",43,49.96,9
+513,196,9,7,9,5,Rexaura,2021/01/04,"Single-player,Steam Achievements,Captions available,Partial Controller Support,Steam Cloud",3,6,6
+514,291,7,11,3,4,Chicken Shoot Gold,2022/09/07,"Single-player,Multi-player,Steam Trading Cards,Steam Cloud",30,6.99,3
+515,532,7,5,5,4,GRID,2022/08/07,"Single-player,Online Multi-Player",30,59.99,6
+516,375,8,4,12,4,Fallout 4,2021/01/13,"Single-player,Steam Achievements,Full controller support,Steam Cloud",84,29.99,3
+517,23,9,10,8,4,DRAGON BALL XENOVERSE,2021/03/02,"Single-player,Multi-player,Co-op,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",50,39.99,2
+518,124,6,4,7,4,Autobahn Police Simulator,2021/09/21,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud",26,9.99,6
+519,673,5,10,10,4,Axiom Verge Original Soundtrack,2022/01/16,"Single-player,Downloadable Content,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",30,9.99,9
+520,370,4,4,1,4,BattleSpace,2022/10/11,"Multi-player,MMO,Cross-Platform Multiplayer",30,0.99,2
+521,541,8,5,5,1,Gang Beasts,2022/11/09,"Multi-player,Online Multi-Player,Local Multi-Player,Shared/Split Screen,Steam Achievements,Full controller support",19,19.99,2
+522,352,8,10,11,5,Contrast,2022/10/22,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",22,9.99,2
+523,484,6,11,8,5,F1 2015,2022/10/04,"Single-player,Multi-player,Cross-Platform Multiplayer,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",45,39.99,2
+524,433,2,6,1,3,Fake Colours,2021/01/20,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support",3,2.99,9
+525,468,1,4,9,4,DiRT Rally,2022/09/20,"Single-player,Multi-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Workshop,Steam Cloud,Valve Anti-Cheat enabled,Steam Le",170,39.99,7
+526,201,5,4,11,3,Axiom Verge,2021/04/29,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",29,19.99,2
+527,461,8,9,7,3,I am Bread,2021/05/03,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",35,12.99,2
+528,12,4,12,5,3,Pro Cycling Manager 2014,2022/08/29,"Single-player,Multi-player",47,9.99,9
+529,253,3,10,11,4,Battle Islands,2021/12/10,"Single-player,Multi-player,Cross-Platform Multiplayer,Steam Achievements",96,9,9
+530,33,4,1,7,2,DisplayFusion,2021/08/07,,30,34.99,7
+531,660,1,8,6,5,Battle Academy,2022/07/05,"Single-player,Multi-player,Cross-Platform Multiplayer,Includes level editor",30,14.99,9
+532,679,9,10,8,2,Blood Knights,2022/04/28,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards",12,9.99,2
+533,273,1,12,7,1,Crowntakers,2022/06/12,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",48,9.99,8
+534,1,8,5,8,4,Broken Sword 5 - the Serpent's Curse,2022/05/03,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards",35,24.99,5
+535,283,8,1,8,5,Call to Arms,2022/05/15,"Single-player,Multi-player,Online Multi-Player,Co-op,Online Co-op,Steam Achievements,Steam Trading Cards,Steam Workshop,In-App Purchases,Partial Contr",84,4,4
+536,34,1,11,6,4,Bard's Gold,2021/01/26,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Leaderboards",24,7.99,3
+537,364,9,2,2,3,Braid,2021/03/17,"Single-player,Steam Achievements,Full controller support,Steam Cloud",12,14.99,9
+538,582,6,6,10,1,Batla,2022/06/09,"Multi-player,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards",61,7,7
+539,351,8,6,5,1,Jet Set Radio,2021/09/13,"Single-player,Full controller support",30,7.99,9
+540,647,7,4,7,1,Layers of Fear,2022/03/19,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud",27,19.99,4
+541,435,9,2,8,3,Big Brain Wolf,2022/09/23,"Single-player,Steam Achievements",10,4.99,5
+542,369,2,8,4,4,Clickteam Fusion 2.5,2022/10/19,"Single-player,Multi-player,MMO,Co-op,Shared/Split Screen,Cross-Platform Multiplayer,Steam Achievements,Steam Leaderboards",30,99.99,6
+543,430,2,9,9,2,Planets Under Attack,2021/06/20,"Single-player,Multi-player,Co-op,Shared/Split Screen,Cross-Platform Multiplayer,Steam Achievements,Full controller support,Steam Trading Cards,Steam C",21,3,3
+544,492,6,10,1,5,Jagged Alliance - Back in Action,2022/11/13,"Single-player,Steam Achievements,Steam Trading Cards,Stats",60,19.99,6
+545,417,9,7,6,5,Sledgehammer / Gear Grinder,2021/10/28,"Single-player,Multi-player,Full controller support,Steam Trading Cards",30,7.99,7
+546,647,1,4,6,1,Battle for Blood - Epic battles within 30 seconds!,2022/12/10,"Single-player,Steam Achievements,Steam Leaderboards",14,5,5
+547,509,4,3,9,2,Bionic Commando,2022/09/01,"Single-player,Multi-player,Partial Controller Support,Steam Cloud",30,9.99,4
+548,681,8,7,2,3,Khet 2.0,2022/07/07,"Single-player,Multi-player,Cross-Platform Multiplayer,Steam Achievements,Full controller support,Steam Trading Cards,Stats,Steam Leaderboards,Steam Tu",54,9.99,5
+549,576,3,3,7,1,Better Late Than DEAD,2022/12/14,"Single-player,Multi-player",30,4.99,8
+550,154,7,1,9,2,Euro Truck Simulator 2 - Ice Cold Paint Jobs Pack,2021/06/18,"Single-player,Downloadable Content,Steam Achievements,Steam Trading Cards,Partial Controller Support,Includes level editor",30,1.99,9
+551,119,2,9,3,3,Euro Truck Simulator 2,2021/01/12,"Single-player,Steam Achievements,Steam Trading Cards,Steam Workshop,Partial Controller Support,Steam Cloud,Includes level editor",67,19.99,8
+552,696,8,6,2,4,Castle Crashers - Blacksmith Pack,2022/08/27,"Single-player,Multi-player,Co-op,Shared/Split Screen,Cross-Platform Multiplayer,Downloadable Content,Steam Achievements,Partial Controller Support,Ste",30,0.99,4
+553,623,8,9,9,3,Castle Crashers - Pink Knight Pack,2022/10/27,"Single-player,Multi-player,Co-op,Shared/Split Screen,Cross-Platform Multiplayer,Downloadable Content,Steam Achievements,Partial Controller Support,Ste",30,0.99,2
+554,728,6,7,4,4,Remember Me,2022/06/22,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",50,29.99,7
+555,402,4,11,7,3,Resident Evil Revelations / Biohazard Revelations,2021/02/13,"Single-player,Co-op,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Valve Anti-Cheat enabled",50,29.99,4
+556,400,4,8,9,4,GRID 2,2022/01/22,"Single-player,Multi-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Valve Anti-Cheat enabled,Steam Leaderboards",60,49.99,2
+557,559,4,10,3,5,Dogfight 1942,2021/11/25,"Single-player,Shared/Split Screen,Steam Achievements,Partial Controller Support",22,9.99,8
+558,120,2,11,8,5,EVE Online,2022/04/19,"Multi-player,Online Multi-Player,MMO,Co-op,Online Co-op,Steam Trading Cards",30,6,6
+559,235,5,3,6,1,Euro Truck Simulator,2021/05/17,"Single-player,Partial Controller Support",30,4.99,4
+560,117,4,11,10,3,Black Mesa,2021/05/13,"Single-player,Multi-player,Online Multi-Player,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards,Captions available,Steam Workshop,Par",25,19.99,9
+561,123,1,5,9,1,Gumboy Tournament,2021/05/21,"Single-player,Multi-player",30,2.99,4
+562,574,8,6,11,3,Sanctum 2,2022/03/19,"Single-player,Multi-player,Co-op,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",50,14.99,7
+563,70,6,2,4,2,Party of Sin,2022/10/21,"Single-player,Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",33,5.99,5
+564,519,3,11,9,4,Cargo Commander,2021/02/15,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support",19,2.99,7
+565,685,5,9,2,2,Island Flight Simulator,2022/06/30,Single-player,30,6.99,7
+566,201,4,7,11,5,Prime World,2022/07/28,"Multi-player,MMO,Co-op,Steam Trading Cards",30,7,7
+567,249,8,10,6,4,CAFE 0 ~The Drowned Mermaid~,2021/09/20,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",21,139.83,7
+568,139,5,6,12,2,CAFE 0 ~The Drowned Mermaid~ - Japanese Voice Add-On,2022/07/03,"Single-player,Downloadable Content,Steam Trading Cards,Profile Features LimitedÂ 
+									",30,139.83,9
+569,243,9,3,11,2,Farm Machines Championships 2014,2021/01/06,Single-player,30,14.99,9
+570,504,1,2,6,4,Boid,2021/08/27,"Single-player,Multi-player,Online Multi-Player,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards,Steam Workshop,In-App Purchases,Stats",24,4,4
+571,43,8,9,10,5,Dead Horde,2022/09/27,"Single-player,Co-op,Shared/Split Screen,Steam Achievements,Partial Controller Support,Steam Cloud,Steam Leaderboards",28,5.99,9
+572,500,4,11,8,2,Cities in Motion,2022/08/31,"Single-player,Steam Achievements",47,164.73,4
+573,360,5,8,9,3,CaesarIA,2022/05/24,"Single-player,Steam Achievements",3,4,4
+574,85,2,5,10,5,CastleMiner Z,2021/10/21,"Single-player,Multi-player,Online Multi-Player,Co-op,Online Co-op,Steam Achievements",31,3.99,9
+575,196,6,1,8,2,Karate Master 2 Knock Down Blow,2022/02/08,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud",18,9.99,4
+576,552,3,12,10,4,Savant - Ascent,2021/03/03,"Single-player,Steam Achievements,Full controller support,Steam Leaderboards",14,1.99,7
+577,424,6,3,6,3,Car Mechanic Simulator 2014,2022/07/22,Single-player,30,6.99,4
+578,571,8,4,2,4,CONSORTIUM,2022/04/01,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Steam Leaderboards",39,9.99,7
+579,238,5,3,5,4,Car Mechanic Simulator 2015 - Youngtimer,2022/03/13,"Single-player,Downloadable Content",30,24.99,2
+580,30,6,10,8,2,Car Mechanic Simulator 2015,2021/03/01,Single-player,30,88.94,3
+581,445,2,8,10,2,Fort Defense,2021/08/25,"Single-player,Steam Achievements,Steam Trading Cards",13,4.99,2
+582,467,9,2,2,5,Carpe Diem,2022/03/12,"Single-player,Steam Achievements,Steam Cloud",1,2,2
+583,521,5,12,1,2,Child of Light,2022/11/25,"Single-player,Shared/Split Screen,Partial Controller Support",30,14.99,6
+584,217,8,5,11,1,Revelations 2012,2022/05/10,"Single-player,Multi-player,Co-op,Cross-Platform Multiplayer,Steam Achievements,Partial Controller Support,Steam Cloud,Valve Anti-Cheat enabled,Stats",47,7,7
+585,375,2,6,4,3,Chime,2022/12/17,"Single-player,Steam Achievements,Partial Controller Support,Stats,Steam Leaderboards",15,4.99,7
+586,356,1,11,1,3,GASP,2022/10/11,"Single-player,Steam Achievements",10,3,3
+587,43,7,3,3,2,One Night,2022/06/07,"Single-player,Full controller support",30,8,8
+588,124,6,6,11,1,Chip's Challenge 2,2022/10/13,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",29,4.99,6
+589,495,2,10,2,3,Memories of a Vagabond,2022/12/10,"Single-player,Steam Trading Cards,Partial Controller Support",30,4.99,3
+590,164,4,10,12,3,Choice Chamber,2022/08/18,"Single-player,Multi-player,MMO,Co-op,Shared/Split Screen,Cross-Platform Multiplayer,Steam Achievements,Full controller support,Steam Trading Cards",34,9.99,4
+591,3,1,12,9,1,Cortex Command,2022/09/12,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Workshop,Steam Cloud,Includes level editor",11,19.99,6
+592,244,7,1,12,3,Soccertron,2022/03/12,"Single-player,Local Multi-Player,Local Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Stats",30,1.99,3
+593,253,2,6,12,1,Killing Floor - Toy Master,2021/07/02,"Single-player,Co-op",30,2,2
+594,241,4,4,12,3,Chompy Chomp Chomp,2021/08/23,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards",27,1.99,4
+595,292,6,9,4,4,Mountain,2021/04/29,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud",31,0.99,7
+596,20,3,9,7,3,"Hack, Slash, Loot",2022/07/03,"Single-player,Steam Achievements,Steam Trading Cards",17,6.99,7
+597,348,4,4,11,3,F.E.A.R. 3,2022/05/26,"Single-player,Multi-player,Co-op,Steam Achievements,Partial Controller Support,Steam Cloud,Steam Leaderboards",50,19.99,8
+598,241,4,11,10,1,Cinders,2022/07/25,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards",8,19.99,7
+599,560,8,10,6,4,Citadels,2022/12/19,"Single-player,Steam Achievements,Steam Trading Cards,Steam Leaderboards",26,14.99,3
+600,284,6,2,7,1,EverQuest II,2021/11/28,"Multi-player,MMO",30,9,9
+601,604,2,3,11,2,PlanetSide 2,2021/12/07,"Multi-player,MMO,Steam Trading Cards",30,5,5
+602,732,9,9,10,5,Cities XL Platinum,2021/11/16,"Single-player,Steam Cloud",30,9.99,9
+603,402,9,6,7,1,Cities XXL,2022/04/16,"Steam Achievements,Steam Trading Cards,Steam Workshop,Steam Cloud",27,9.99,8
+604,318,7,9,12,3,Holy Potatoes! A Weapon Shop?!,2022/05/18,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",50,14.99,5
+605,486,1,11,11,2,Memoir '44 Online,2022/04/09,"Single-player,Multi-player,Steam Achievements",62,7,7
+606,377,4,1,6,2,Small World 2,2022/12/13,"Single-player,Multi-player,Cross-Platform Multiplayer,Steam Trading Cards,Steam Turn Notifications",30,9.99,7
+607,311,5,7,3,3,Small World 2 - Grand Dames,2021/05/04,"Single-player,Multi-player,Cross-Platform Multiplayer,Downloadable Content",30,2.99,9
+608,703,1,4,2,4,One Manga Day,2021/11/27,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support",12,8,8
+609,395,5,8,6,3,Fabula Mortis,2022/08/31,"Multi-player,Steam Trading Cards",30,7.99,7
+610,614,9,5,8,3,Citizens of Earth,2021/07/31,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud",50,14.99,9
+611,389,1,10,9,5,Kidnapped,2021/02/19,"Single-player,Steam Achievements,Steam Trading Cards",7,2.99,9
+612,514,7,9,3,1,City Life 2008,2021/12/01,Single-player,30,9.99,6
+613,55,2,5,12,2,Gods Will Be Watching,2021/06/04,"Single-player,Steam Achievements,Steam Trading Cards,Captions available",35,9.99,4
+614,89,1,5,12,2,Claire,2021/02/17,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support",16,9.99,5
+615,180,6,5,7,1,Claire - Soundtrack,2022/11/26,"Single-player,Downloadable Content,Profile Features LimitedÂ 
+									",30,4.99,9
+616,513,9,5,4,1,Hospital Tycoon,2022/08/08,Single-player,30,4.99,9
+617,95,7,6,9,1,Saints Row IV,2021/07/27,"Single-player,Co-op,Steam Achievements,Full controller support,Steam Trading Cards,Steam Workshop,Steam Cloud",73,14.99,6
+618,646,7,1,10,4,Clash of Puppets,2022/09/06,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards",60,4.99,4
+619,120,9,10,3,2,Project Temporality,2021/08/11,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",19,14.99,9
+620,245,2,1,12,3,Clicker Heroes,2022/03/31,"Single-player,Steam Achievements,Steam Trading Cards,In-App Purchases,Steam Cloud,Stats",111,5,5
+621,561,8,9,12,4,Craft The World,2022/10/02,"Single-player,Multi-player,Co-op,Steam Achievements,Steam Trading Cards,Steam Workshop,Steam Cloud,Includes level editor",75,18.99,7
+622,4,2,12,2,2,Darkstone,2022/11/04,"Single-player,Shared/Split Screen",30,4.99,5
+623,129,8,3,9,1,Closure,2021/04/27,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Commentary available",8,9.99,6
+624,117,7,9,2,4,Hotline Miami,2021/10/01,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support",35,9.99,6
+625,534,9,10,12,2,Pox Nora,2022/02/24,"Single-player,Multi-player,Steam Trading Cards",30,3,3
+626,534,5,12,12,3,Hatred,2021/11/01,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Steam Leaderboards",74,5.99,4
+627,46,7,2,9,2,Codename CURE,2021/05/01,"Single-player,Co-op,Online Co-op,Cross-Platform Multiplayer,Steam Achievements,Steam Workshop,Partial Controller Support,Includes level editor",40,4,4
+628,635,9,2,10,2,Coffin Dodgers,2021/03/25,"Single-player,Multi-player,Online Multi-Player,Local Multi-Player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,S",37,10.99,7
+629,341,7,7,12,3,Radial Impact,2022/05/07,Single-player,30,0.99,2
+630,56,8,11,8,4,Cognition - Original Soundtrack Vol 1,2021/07/05,"Single-player,Downloadable Content,Steam Achievements,Steam Trading Cards,Captions available,Steam Cloud,Profile Features LimitedÂ 
+									",30,5.99,2
+631,322,9,5,8,5,Cogs,2021/03/06,"Single-player,Steam Achievements",18,5.99,2
+632,659,6,10,5,4,Nation Red,2021/07/31,"Single-player,Multi-player,Online Multi-Player,Co-op,Online Co-op,Local Co-op,Shared/Split Screen,Cross-Platform Multiplayer,Steam Achievements,Full c",145,1.99,7
+633,277,5,12,3,5,Lunch Truck Tycoon,2021/12/20,Single-player,30,0.99,8
+634,309,2,8,4,2,Harvester,2021/12/26,"Single-player,Steam Trading Cards",30,5.99,8
+635,273,3,9,2,1,Color Symphony,2021/10/16,"Single-player,Full controller support,Steam Cloud",30,9,9
+636,607,3,9,8,2,Depth,2022/09/20,"Single-player,Multi-player,Online Multi-Player,Steam Achievements,Full controller support,Steam Trading Cards,Captions available,Steam Workshop,In-App",40,19.99,8
+637,634,5,11,1,4,Depth - S.T.E.V.E. Pack,2022/11/13,"Single-player,Multi-player,Downloadable Content,Steam Achievements,Full controller support,Steam Trading Cards,Captions available,Steam Cloud,Valve An",30,5.99,5
+638,446,5,4,10,5,Comanche 4,2022/02/09,"Single-player,Multi-player",30,69.99,9
+639,626,3,8,10,5,Delta Force 2,2021/09/30,"Single-player,Multi-player",30,4.99,4
+640,326,7,4,8,4,Combat Monsters,2021/02/09,"Single-player,Multi-player,Online Multi-Player,Local Multi-Player,Co-op,Online Co-op,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards",42,6,6
+641,674,6,8,7,3,Dark Sector,2022/03/03,"Single-player,Multi-player,Partial Controller Support",30,9.99,9
+642,541,9,3,11,4,Comedy Quest,2021/11/14,"Single-player,Partial Controller Support",30,8,8
+643,145,5,7,7,5,Dragon's Lair,2022/12/26,"Single-player,Steam Achievements,Partial Controller Support",12,9.99,3
+644,584,5,9,8,4,Get Off My Lawn!,2021/06/29,"Single-player,Steam Achievements,Steam Trading Cards,Steam Leaderboards",71,67.9,7
+645,507,1,10,3,1,Command HQ,2021/05/06,Single-player,30,55.92,4
+646,219,2,6,10,3,Sine Mora,2022/01/01,"Single-player,Steam Achievements,Full controller support,Steam Cloud,Steam Leaderboards",10,9.99,8
+647,527,3,9,12,4,SkyDrift,2022/04/05,"Single-player,Multi-player,Steam Achievements,Partial Controller Support,Steam Cloud,Steam Leaderboards",12,9.99,9
+648,525,9,10,12,3,Company of Heroes,2021/05/03,"Single-player,Multi-player,Steam Trading Cards,Steam Workshop,Steam Cloud",30,19.99,9
+649,726,2,9,10,1,Company of Heroes 2,2022/01/30,"Single-player,Multi-player,Co-op,Steam Achievements,Steam Trading Cards,Steam Workshop,Steam Cloud,Stats",452,19.99,8
+650,13,1,5,1,4,Company of Heroes 2 - Ardennes Assault,2022/09/30,"Single-player,Steam Workshop,Steam Cloud,Stats,Includes level editor",30,19.99,9
+651,730,8,2,11,2,Nomad,2022/06/03,"Multi-player,Online Multi-Player,MMO,Co-op,Online Co-op,Steam Achievements,Steam Trading Cards",26,4,4
+652,386,6,5,6,4,Coniclysm,2021/06/30,"Single-player,Full controller support,Partial Controller Support",30,4.99,7
+653,503,7,7,4,5,LISA,2021/04/29,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud",68,9.99,2
+654,618,1,6,1,5,Mini Metro,2021/01/22,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud,Steam Leaderboards",45,9.99,7
+655,479,1,8,9,2,Constant C,2021/11/02,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Partial Controller Support,Steam Cloud,Steam Leaderboards",15,9.99,2
+656,256,1,6,4,5,Overruled!,2022/04/20,"Single-player,Multi-player,Cross-Platform Multiplayer,Steam Achievements,Full controller support,Steam Trading Cards,Steam Leaderboards",24,12.99,2
+657,463,2,5,8,4,Construction Machines 2014,2022/05/19,Single-player,30,6.99,8
+658,178,4,3,6,5,Contagion,2021/09/28,"Single-player,Multi-player,Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Workshop,Steam Cloud,Include",36,9.99,8
+659,160,3,11,5,2,Gear Up,2022/11/02,"Multi-player,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud,Steam Leaderboards",27,9,9
+660,282,3,8,3,4,Puzzle Dimension,2021/05/26,"Single-player,Steam Achievements,Partial Controller Support,Steam Cloud,Stats,Steam Leaderboards",25,2.99,6
+661,240,9,9,3,4,Contraption Maker,2021/03/03,"Single-player,Multi-player,Online Multi-Player,Online Co-op,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards,Steam Workshop,Includes ",22,9.99,2
+662,136,2,10,9,2,Corporate Lifestyle Simulator,2021/05/07,"Single-player,Full controller support",30,4.99,4
+663,492,8,2,10,3,Controller Companion,2021/06/23,"Full controller support,Steam Workshop",30,2.99,7
+664,27,1,12,3,4,Danmaku Unlimited 2,2022/07/30,"Single-player,Steam Achievements,Partial Controller Support,Steam Leaderboards",25,4.99,3
+665,318,3,1,3,4,Double Dragon Trilogy,2022/04/11,"Single-player,Multi-player,Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",15,5.99,3
+666,671,4,1,5,3,"Cook, Serve, Delicious!",2022/03/28,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",52,9.99,4
+667,191,5,2,6,4,Sanitarium,2022/05/01,"Single-player,Steam Achievements,Steam Cloud",20,9.99,8
+668,627,6,6,12,5,Copa Petrobras de Marcas,2022/12/15,"Single-player,Partial Controller Support",30,19.99,3
+669,109,2,8,7,1,Rebel Galaxy,2021/05/17,"Single-player,Steam Achievements,Full controller support,Steam Cloud",37,19.99,9
+670,135,5,1,7,3,Frozen Synapse Prime,2022/01/04,"Single-player,Multi-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Leaderboards",30,24.99,8
+671,193,7,12,4,5,Costume Quest,2022/11/16,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud",21,9.99,8
+672,569,8,5,2,5,Costume Quest 2,2022/12/08,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",18,14.99,6
+673,477,5,4,10,1,Grim Fandango Remastered,2021/03/14,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Commentary available",47,14.99,8
+674,706,6,7,1,5,Hack 'n' Slash,2021/10/20,"Single-player,Full controller support,Steam Workshop,Steam Cloud",30,13.37,6
+675,402,4,7,8,2,Iron Brigade,2022/04/04,"Single-player,Multi-player,Co-op,Steam Achievements,Full controller support,Captions available,Steam Cloud,Steam Leaderboards",23,14.99,4
+676,418,1,7,6,1,MASSIVE CHALICE,2021/11/18,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Captions available,Steam Cloud",28,19.99,3
+677,551,1,8,10,2,Psychonauts,2021/04/07,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support,Steam Cloud",37,9.99,2
+678,267,8,12,8,2,Cosmic DJ,2022/12/28,Single-player,30,2.99,3
+679,661,2,2,10,4,Front Mission Evolved,2021/11/08,"Single-player,Multi-player,Steam Achievements,Partial Controller Support,Steam Leaderboards",27,9.99,2
+680,156,4,8,3,1,Silent Hill Homecoming,2022/05/30,Single-player,30,39.99,9
+681,236,7,10,10,3,Soldier Front 2,2021/10/05,"Multi-player,Co-op,Steam Achievements,Steam Trading Cards",20,4,4
+682,83,6,11,6,1,Ironcast,2021/06/23,"Single-player,Steam Achievements,Steam Trading Cards,Steam Cloud",30,14.99,5
+683,137,8,10,9,2,Guacamelee! Gold Edition,2021/03/04,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Workshop,Steam Cloud,Steam Leaderboards",60,14.99,5
+684,241,6,7,3,5,Guacamelee! Super Turbo Championship Edition,2022/09/30,"Single-player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Workshop,Steam Cloud,Steam Leaderboards",30,14.99,2
+685,342,5,5,2,4,Cradle,2021/06/06,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Stats",25,12.99,5
+686,279,1,8,3,5,Pongo,2022/02/06,"Single-player,Steam Achievements,Steam Trading Cards,Stats",8,0.99,3
+687,11,4,1,2,1,Crawl,2021/05/12,"Single-player,Local Multi-Player,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",45,14.99,8
+688,686,2,6,3,5,Dungeon Crawlers HD,2021/04/18,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards",15,4.99,6
+689,64,9,9,1,4,Crayon Chronicles,2022/03/28,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",42,3.99,4
+690,214,2,5,3,3,Poly Bridge,2021/05/09,"Single-player,Steam Achievements,Steam Trading Cards,Steam Workshop,Steam Cloud,Stats,Steam Leaderboards,Includes level editor",22,9.99,8
+691,651,8,12,6,4,Crayon Physics Deluxe,2021/01/27,Single-player,30,19.99,5
+692,399,4,2,2,5,Crazy Machines,2021/08/27,Single-player,30,9.99,4
+693,715,2,3,1,4,Crazy Machines 2 - Jewel Digger DLC,2021/10/31,"Single-player,Downloadable Content",30,2.99,4
+694,144,1,9,10,4,Crazy Machines Elements,2021/08/28,Single-player,30,9.99,8
+695,627,5,6,10,2,Crazy Plant Shop,2021/12/01,"Single-player,Steam Achievements,Steam Trading Cards",7,4.99,6
+696,273,9,9,12,3,Need for Speed Undercover,2022/06/25,"Single-player,Multi-player,Partial Controller Support",30,9.99,3
+697,504,4,8,10,1,Crazy Taxi,2021/03/12,"Single-player,Partial Controller Support",12,7.99,4
+698,727,2,11,4,5,SEGA Bass Fishing,2022/09/06,"Single-player,Partial Controller Support",12,7.99,6
+699,214,4,11,12,1,Sonic Adventure DX,2022/12/01,"Single-player,Partial Controller Support",15,7.99,5
+700,487,5,6,8,3,Dead Space,2022/01/25,"Single-player,Full controller support",30,19.99,8
+701,104,2,1,5,5,CreaVures,2022/08/09,"Single-player,Steam Achievements,Partial Controller Support",21,4.99,4
+702,134,2,5,8,4,Flight of the Icarus,2022/03/01,Single-player,30,4.99,3
+703,191,9,8,6,1,Guns of Icarus Online,2021/07/27,"Multi-player,Steam Achievements,Steam Trading Cards,Steam Workshop,Partial Controller Support,Stats",849,4.99,2
+704,521,9,1,10,4,Road Redemption,2021/03/09,"Single-player,Multi-player,Online Multi-Player,Local Multi-Player,Local Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Tra",55,19.99,9
+705,218,8,12,9,4,Creativerse,2022/02/22,"Single-player,Multi-player,Online Multi-Player,MMO,Co-op,Online Co-op,Steam Trading Cards,Steam Workshop,In-App Purchases",30,2,2
+706,386,5,11,10,3,Eternal Silence,2021/02/01,"Multi-player,Mods (require HL2)",30,7,7
+707,301,4,1,6,5,D.I.P.R.I.P. Warm Up,2022/06/21,"Multi-player,Mods,Mods (require HL2),Steam Achievements",24,8,8
+708,676,7,1,12,1,Cricket Revolution,2022/09/19,"Single-player,Multi-player",30,2.99,7
+709,401,2,10,8,2,Lightfish,2022/08/13,"Single-player,Steam Achievements,Full controller support,Steam Leaderboards",18,4.99,4
+710,714,1,1,9,4,Critical Mass,2021/10/01,"Single-player,Steam Achievements",27,1.99,8
+711,724,5,11,5,1,Proteus,2022/03/04,"Single-player,Full controller support",30,9.99,8
+712,453,5,4,8,5,CroNix,2022/06/06,"Multi-player,Co-op",30,4,4
+713,605,1,3,7,5,CrossCode,2022/07/26,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud",86,4,4
+714,361,6,4,12,5,Crouching Pony Hidden Dragon,2022/01/28,"Single-player,Shared/Split Screen",30,9.99,7
+715,273,9,8,3,4,Fingered,2021/06/19,"Single-player,Steam Achievements",24,1.87,9
+716,421,4,9,8,3,Cruel Arena,2021/09/22,"Single-player,Steam Achievements,Full controller support,Steam Trading Cards",9,0.99,9
+717,499,6,1,11,2,Mad Games Tycoon,2021/12/11,"Single-player,Steam Achievements",39,14.99,7
+718,469,4,12,5,1,Crusader Kings Complete,2021/03/01,"Single-player,Multi-player",30,9.99,9
+719,369,6,10,8,4,Crusader Kings II,2022/07/31,"Single-player,Multi-player,Steam Trading Cards",161,39.99,3
+720,36,7,8,3,3,Europa Universalis IV,2022/06/29,"Single-player,Multi-player,Cross-Platform Multiplayer,Steam Achievements,Steam Trading Cards,Steam Workshop,Steam Cloud",295,39.99,6
+721,693,4,4,9,3,Hearts of Iron III,2022/08/17,"Single-player,Multi-player,Co-op,Steam Trading Cards",30,9.99,2
+722,483,8,11,6,2,March of the Eagles,2021/07/11,"Single-player,Multi-player,Steam Trading Cards",30,19.99,5
+723,419,8,9,8,3,Painkiller Redemption,2022/08/06,Single-player,30,4.99,6
+724,81,2,5,4,2,Cry of Fear,2022/07/07,"Single-player,Co-op,Steam Cloud,Valve Anti-Cheat enabled",30,3,3
+725,476,5,7,8,1,How to Survive,2022/06/25,"Single-player,Multi-player,Co-op,Shared/Split Screen,Steam Achievements,Full controller support,Steam Trading Cards,Steam Cloud,Steam Leaderboards",43,14.99,5
+726,476,3,8,9,1,Solar Shifter EX,2021/06/27,"Single-player,Steam Achievements,Steam Trading Cards,Partial Controller Support",12,4.99,3
+727,134,4,8,12,2,Dead Mountaineer's Hotel,2021/05/26,Single-player,30,7.99,3
+728,364,8,5,4,3,Empyrion - Galactic Survival,2022/04/04,"Single-player,Multi-player,Co-op,Steam Workshop,Partial Controller Support",30,19.99,5
+729,25,3,3,4,4,Crystal Rift,2022/06/18,"Single-player,Full controller support,Includes level editor",30,9.99,7

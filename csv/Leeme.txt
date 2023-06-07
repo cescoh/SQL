@@ -1,0 +1,22 @@
+Pasos de insercion de datos:
+
+use usersbehaviour;
+SELECT * from country; 
+import records from an external file > browse...
+
+Seleccionar csvcountry1.csv
+Use existing table usersbehaviour.country ... Next > Next > Next > Finish.
+
+Repetir los pasos con los archivos en el orden que estan numerados:
+
+1country.csv
+2pegi.csv
+3genre.csv
+4developer.csv
+5review.csv
+6languages.csv
+7identity.csv
+8seller.csv
+9dataset_games.csv
+10sales.csv
+11dataset_behaviour.csv
